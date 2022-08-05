@@ -1,0 +1,4208 @@
+{
+    "data": [
+        {
+            "paragraphs": [
+                {
+                    "context": "帮助游客需要包括游客遵循景点的规则并且在满足游客对某个景点感兴趣的前提下游客得到某处景物的介绍。",
+                    "qas": [
+                        {
+                            "question": "这是什么的功能描述？",
+                            "type": "semantic-role",
+                            "id": "370142836310976",
+                            "answers": [
+                                {
+                                    "text": "帮助游客",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”帮助游客“的第一个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "380284287252760",
+                            "answers": [
+                                {
+                                    "text": "游客遵循景点的规则",
+                                    "answer_start": 8
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”帮助游客“的第二个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "304701258759128",
+                            "answers": [
+                                {
+                                    "text": "游客得到某处景物的介绍",
+                                    "answer_start": 36
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”帮助游客“的第三个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "895703278664763",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "游客遵守景点规则包括游客在规定时间内进入景点并且判断是否在满足游客未登记的前提下通知游客登记。",
+                    "qas": [
+                        {
+                            "question": "这是什么的功能描述？",
+                            "type": "semantic-role",
+                            "id": "524788344617858",
+                            "answers": [
+                                {
+                                    "text": "游客遵守景点规则",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客在规定时间内进入景点“的第一个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "826806105818093",
+                            "answers": [
+                                {
+                                    "text": "游客在规定时间内进入景点",
+                                    "answer_start": 10
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客在规定时间内进入景点“的第二个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "330357758352185",
+                            "answers": [
+                                {
+                                    "text": "通知游客登记",
+                                    "answer_start": 40
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客在规定时间内进入景点“的第三个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "68312677102326",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "游客在规定时间内进入景点需要判断在满足C2的前提下是否在景点关闭前通知游客。",
+                    "qas": [
+                        {
+                            "question": "这是什么的功能描述？",
+                            "type": "semantic-role",
+                            "id": "351064918441869",
+                            "answers": [
+                                {
+                                    "text": "游客在规定时间内进入景点",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客在规定时间内进入景点“的第一个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "97591515518561",
+                            "answers": [
+                                {
+                                    "text": "在景点关闭前通知游客",
+                                    "answer_start": 27
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客在规定时间内进入景点“的第二个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "105599596008030",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "在景点关闭前通知游客包括判断在满足游客为进入景点的前提下是否通知游客不许进入景点并且判断在满足游客已进入景点的前提下是否通知游客该离开了。",
+                    "qas": [
+                        {
+                            "question": "这是什么的功能描述？",
+                            "type": "semantic-role",
+                            "id": "830919815584699",
+                            "answers": [
+                                {
+                                    "text": "在景点关闭前通知游客",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”在景点关闭前通知游客“的第一个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "491880746020677",
+                            "answers": [
+                                {
+                                    "text": "通知游客不许进入景点",
+                                    "answer_start": 30
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”在景点关闭前通知游客“的第二个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "175719405334050",
+                            "answers": [
+                                {
+                                    "text": "通知游客该离开了",
+                                    "answer_start": 60
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”在景点关闭前通知游客“的第三个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "165052992222017",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "游客得到某处景物的介绍需要满足在C4条件下游客通过电子向导获得景物介绍或者在满足C5条件下游客通过手机应用获得景物介绍或者在满足C6前提下游客通过导游获得景物介绍3种情况中的至少一种。",
+                    "qas": [
+                        {
+                            "question": "这是什么的功能描述？",
+                            "type": "semantic-role",
+                            "id": "589927022183207",
+                            "answers": [
+                                {
+                                    "text": "游客得到某处景物的介绍",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客得到某处景物的介绍“的第一个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "935720061835332",
+                            "answers": [
+                                {
+                                    "text": "游客通过电子向导获得景物介绍",
+                                    "answer_start": 21
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客得到某处景物的介绍“的第二个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "633752091440646",
+                            "answers": [
+                                {
+                                    "text": "游客通过手机应用获得景物介绍",
+                                    "answer_start": 45
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客得到某处景物的介绍“的第三个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "47032641428590",
+                            "answers": [
+                                {
+                                    "text": "游客通过导游获得景物介绍",
+                                    "answer_start": 69
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客得到某处景物的介绍“的第四个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "573225657065837",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "游客通过电子向导获得景物介绍需要满足用户到达电子向导处并且游客知道如何使用电子向导。",
+                    "qas": [
+                        {
+                            "question": "这是什么的功能描述？",
+                            "type": "semantic-role",
+                            "id": "962426939677893",
+                            "answers": [
+                                {
+                                    "text": "游客通过电子向导获得景物介绍",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客通过电子向导获得景物介绍“的第一个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "448485145862690",
+                            "answers": [
+                                {
+                                    "text": "到达电子向导处",
+                                    "answer_start": 20
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客通过电子向导获得景物介绍“的第二个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "497909956252854",
+                            "answers": [
+                                {
+                                    "text": "游客知道如何使用电子向导",
+                                    "answer_start": 29
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客通过电子向导获得景物介绍“的第三个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "170054407965086",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "游客通过手机应用获得景物介绍需要满足游客手机中有向导应用而且向游客提供合适的信息。",
+                    "qas": [
+                        {
+                            "question": "这是什么的功能描述？",
+                            "type": "semantic-role",
+                            "id": "81305177342756",
+                            "answers": [
+                                {
+                                    "text": "游客通过手机应用获得景物介绍",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客通过手机应用获得景物介绍“的第一个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "830590451348301",
+                            "answers": [
+                                {
+                                    "text": "游客手机中有向导应用",
+                                    "answer_start": 18
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客通过手机应用获得景物介绍“的第二个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "894707788902451",
+                            "answers": [
+                                {
+                                    "text": "向游客提供合适的信息",
+                                    "answer_start": 30
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客通过手机应用获得景物介绍“的第二个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "424898081595756",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "游客到达电子向导处需要判断在满足C9的前提下是否有地标指引游客到电子向导处。",
+                    "qas": [
+                        {
+                            "question": "这是什么的功能描述？",
+                            "type": "semantic-role",
+                            "id": "268528186093060",
+                            "answers": [
+                                {
+                                    "text": "游客到达电子向导处",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客到达电子向导处“的第一个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "179635518240014",
+                            "answers": [
+                                {
+                                    "text": "有地标指引游客到电子向导处",
+                                    "answer_start": 24
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客到达电子向导处“的第二个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "554734346840802",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "游客知道如何使用电子向导需要判断在C15前提下是否展示电子向导使用demo。",
+                    "qas": [
+                        {
+                            "question": "这是什么的功能描述？",
+                            "type": "semantic-role",
+                            "id": "86476465248669",
+                            "answers": [
+                                {
+                                    "text": "游客知道如何使用电子向导",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客知道如何使用电子向导“的第一个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "762680837006570",
+                            "answers": [
+                                {
+                                    "text": "展示电子向导使用demo",
+                                    "answer_start": 25
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客知道如何使用电子向导“的第二个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "853617124983216",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "游客手机中有向导应用需要判断在满足C16的前提下是否粘贴下载应用的二维码。",
+                    "qas": [
+                        {
+                            "question": "这是什么的功能描述？",
+                            "type": "semantic-role",
+                            "id": "28552658271885",
+                            "answers": [
+                                {
+                                    "text": "游客手机中有向导应用",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客手机中有向导应用“的第一个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "620309154053382",
+                            "answers": [
+                                {
+                                    "text": "粘贴下载应用的二维码",
+                                    "answer_start": 26
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客手机中有向导应用“的第二个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "117025214916604",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "向游客提供适合的信息需要判断是否准备景物信息。",
+                    "qas": [
+                        {
+                            "question": "这是什么的功能描述？",
+                            "type": "semantic-role",
+                            "id": "98457999936638",
+                            "answers": [
+                                {
+                                    "text": "向游客提供适合的信息",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”向游客提供适合的信息“的第一个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "950645390399078",
+                            "answers": [
+                                {
+                                    "text": "准备景物信息",
+                                    "answer_start": 16
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”向游客提供适合的信息“的第二个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "153468580627117",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "准备景物信息需要判断是否准备景物的详细信息或者准备景物的简短信息。",
+                    "qas": [
+                        {
+                            "question": "这是什么的功能描述？",
+                            "type": "semantic-role",
+                            "id": "79730937984720",
+                            "answers": [
+                                {
+                                    "text": "准备景物信息",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”准备景物信息“的第一个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "484352451491883",
+                            "answers": [
+                                {
+                                    "text": "准备景物的详细信息",
+                                    "answer_start": 12
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”准备景物信息“的第二个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "361512537131608",
+                            "answers": [
+                                {
+                                    "text": "准备景物的简短信息",
+                                    "answer_start": 23
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”准备景物信息“的第三个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "931511469017779",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "帮助游客需要包括游客遵循景点的规则并且在满足游客对某个景点感兴趣的前提下游客得到某处景物的介绍。",
+                    "qas": [
+                        {
+                            "question": "这是什么的功能描述？",
+                            "type": "semantic-role",
+                            "id": "832917085073122",
+                            "answers": [
+                                {
+                                    "text": "帮助游客",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”帮助游客“的第一个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "94002316532197",
+                            "answers": [
+                                {
+                                    "text": "游客遵循景点的规则",
+                                    "answer_start": 8
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”帮助游客“的第二个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "3483395711527",
+                            "answers": [
+                                {
+                                    "text": "游客得到某处景物的介绍",
+                                    "answer_start": 36
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”帮助游客“的第三个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "453697531052737",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "游客遵守景点规则包括游客在规定时间内进入景点并且判断是否在满足游客未登记的前提下通知游客登记。",
+                    "qas": [
+                        {
+                            "question": "这是什么的功能描述？",
+                            "type": "semantic-role",
+                            "id": "540242554427522",
+                            "answers": [
+                                {
+                                    "text": "游客遵守景点规则",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客在规定时间内进入景点“的第一个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "907829670123208",
+                            "answers": [
+                                {
+                                    "text": "游客在规定时间内进入景点",
+                                    "answer_start": 10
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客在规定时间内进入景点“的第二个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "36172581048738",
+                            "answers": [
+                                {
+                                    "text": "通知游客登记",
+                                    "answer_start": 40
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客在规定时间内进入景点“的第三个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "155401792329802",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "游客在规定时间内进入景点需要判断在满足C2的前提下是否在景点关闭前通知游客。",
+                    "qas": [
+                        {
+                            "question": "这是什么的功能描述？",
+                            "type": "semantic-role",
+                            "id": "782066387753875",
+                            "answers": [
+                                {
+                                    "text": "游客在规定时间内进入景点",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客在规定时间内进入景点“的第一个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "617844338766577",
+                            "answers": [
+                                {
+                                    "text": "在景点关闭前通知游客",
+                                    "answer_start": 27
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客在规定时间内进入景点“的第二个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "30740089563522",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "在景点关闭前通知游客包括判断在满足游客为进入景点的前提下是否通知游客不许进入景点并且判断在满足游客已进入景点的前提下是否通知游客该离开了。",
+                    "qas": [
+                        {
+                            "question": "这是什么的功能描述？",
+                            "type": "semantic-role",
+                            "id": "305439792461872",
+                            "answers": [
+                                {
+                                    "text": "在景点关闭前通知游客",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”在景点关闭前通知游客“的第一个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "857640296304529",
+                            "answers": [
+                                {
+                                    "text": "通知游客不许进入景点",
+                                    "answer_start": 30
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”在景点关闭前通知游客“的第二个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "484559560657030",
+                            "answers": [
+                                {
+                                    "text": "通知游客该离开了",
+                                    "answer_start": 60
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”在景点关闭前通知游客“的第三个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "427690774602708",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "游客得到某处景物的介绍需要满足在C4条件下游客通过电子向导获得景物介绍或者在满足C5条件下游客通过手机应用获得景物介绍或者在满足C6前提下游客通过导游获得景物介绍3种情况中的至少一种。",
+                    "qas": [
+                        {
+                            "question": "这是什么的功能描述？",
+                            "type": "semantic-role",
+                            "id": "354803236926654",
+                            "answers": [
+                                {
+                                    "text": "游客得到某处景物的介绍",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客得到某处景物的介绍“的第一个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "625506923545437",
+                            "answers": [
+                                {
+                                    "text": "游客通过电子向导获得景物介绍",
+                                    "answer_start": 21
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客得到某处景物的介绍“的第二个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "281826180185855",
+                            "answers": [
+                                {
+                                    "text": "游客通过手机应用获得景物介绍",
+                                    "answer_start": 45
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客得到某处景物的介绍“的第三个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "868351272799135",
+                            "answers": [
+                                {
+                                    "text": "游客通过导游获得景物介绍",
+                                    "answer_start": 69
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客得到某处景物的介绍“的第四个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "141697776908238",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "游客通过电子向导获得景物介绍需要满足用户到达电子向导处并且游客知道如何使用电子向导。",
+                    "qas": [
+                        {
+                            "question": "这是什么的功能描述？",
+                            "type": "semantic-role",
+                            "id": "383303838192651",
+                            "answers": [
+                                {
+                                    "text": "游客通过电子向导获得景物介绍",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客通过电子向导获得景物介绍“的第一个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "601672065129346",
+                            "answers": [
+                                {
+                                    "text": "到达电子向导处",
+                                    "answer_start": 20
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客通过电子向导获得景物介绍“的第二个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "783511102991768",
+                            "answers": [
+                                {
+                                    "text": "游客知道如何使用电子向导",
+                                    "answer_start": 29
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客通过电子向导获得景物介绍“的第三个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "906691703070337",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "游客通过手机应用获得景物介绍需要满足游客手机中有向导应用而且向游客提供合适的信息。",
+                    "qas": [
+                        {
+                            "question": "这是什么的功能描述？",
+                            "type": "semantic-role",
+                            "id": "964270086324740",
+                            "answers": [
+                                {
+                                    "text": "游客通过手机应用获得景物介绍",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客通过手机应用获得景物介绍“的第一个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "800055703194384",
+                            "answers": [
+                                {
+                                    "text": "游客手机中有向导应用",
+                                    "answer_start": 18
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客通过手机应用获得景物介绍“的第二个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "78945711027125",
+                            "answers": [
+                                {
+                                    "text": "向游客提供合适的信息",
+                                    "answer_start": 30
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客通过手机应用获得景物介绍“的第二个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "99836886522621",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "游客到达电子向导处需要判断在满足C9的前提下是否有地标指引游客到电子向导处。",
+                    "qas": [
+                        {
+                            "question": "这是什么的功能描述？",
+                            "type": "semantic-role",
+                            "id": "540505327079730",
+                            "answers": [
+                                {
+                                    "text": "游客到达电子向导处",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客到达电子向导处“的第一个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "63075646734401",
+                            "answers": [
+                                {
+                                    "text": "有地标指引游客到电子向导处",
+                                    "answer_start": 24
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客到达电子向导处“的第二个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "888760733182872",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "游客知道如何使用电子向导需要判断在C15前提下是否展示电子向导使用demo。",
+                    "qas": [
+                        {
+                            "question": "这是什么的功能描述？",
+                            "type": "semantic-role",
+                            "id": "133286933180673",
+                            "answers": [
+                                {
+                                    "text": "游客知道如何使用电子向导",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客知道如何使用电子向导“的第一个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "232805871898153",
+                            "answers": [
+                                {
+                                    "text": "展示电子向导使用demo",
+                                    "answer_start": 25
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客知道如何使用电子向导“的第二个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "324444140211874",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "游客手机中有向导应用需要判断在满足C16的前提下是否粘贴下载应用的二维码。",
+                    "qas": [
+                        {
+                            "question": "这是什么的功能描述？",
+                            "type": "semantic-role",
+                            "id": "781087391368685",
+                            "answers": [
+                                {
+                                    "text": "游客手机中有向导应用",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客手机中有向导应用“的第一个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "362572020296671",
+                            "answers": [
+                                {
+                                    "text": "粘贴下载应用的二维码",
+                                    "answer_start": 26
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客手机中有向导应用“的第二个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "609062369945886",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "向游客提供适合的信息需要判断是否准备景物信息。",
+                    "qas": [
+                        {
+                            "question": "“向游客提供适合的信息需要判断是否准备景物信息”是什么的功能描述？",
+                            "type": "semantic-role",
+                            "id": "249225615051997",
+                            "answers": [
+                                {
+                                    "text": "向游客提供适合的信息",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”向游客提供适合的信息“的第一个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "642318787530180",
+                            "answers": [
+                                {
+                                    "text": "准备景物信息",
+                                    "answer_start": 16
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”向游客提供适合的信息“的第二个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "347794883742904",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "准备景物信息需要判断是否准备景物的详细信息或者准备景物的简短信息。",
+                    "qas": [
+                        {
+                            "question": "这是什么的功能描述？",
+                            "type": "semantic-role",
+                            "id": "767384867556144",
+                            "answers": [
+                                {
+                                    "text": "准备景物信息",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”准备景物信息“的第一个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "330129449659254",
+                            "answers": [
+                                {
+                                    "text": "准备景物的详细信息",
+                                    "answer_start": 12
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”准备景物信息“的第二个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "308556047802163",
+                            "answers": [
+                                {
+                                    "text": "准备景物的简短信息",
+                                    "answer_start": 23
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”准备景物信息“的第三个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "592635804011235",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "帮助游客需要包括游客遵循景点的规则并且在满足游客对某个景点感兴趣的前提下游客得到某处景物的介绍。",
+                    "qas": [
+                        {
+                            "question": "这是什么的功能描述？",
+                            "type": "semantic-role",
+                            "id": "62092244900124",
+                            "answers": [
+                                {
+                                    "text": "帮助游客",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”帮助游客“的第一个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "491824376543259",
+                            "answers": [
+                                {
+                                    "text": "游客遵循景点的规则",
+                                    "answer_start": 8
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”帮助游客“的第二个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "740556524868495",
+                            "answers": [
+                                {
+                                    "text": "游客得到某处景物的介绍",
+                                    "answer_start": 36
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”帮助游客“的第三个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "695088479109602",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "游客遵守景点规则包括游客在规定时间内进入景点并且判断是否在满足游客未登记的前提下通知游客登记。",
+                    "qas": [
+                        {
+                            "question": "这是什么的功能描述？",
+                            "type": "semantic-role",
+                            "id": "357282929808349",
+                            "answers": [
+                                {
+                                    "text": "游客遵守景点规则",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客在规定时间内进入景点“的第一个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "239871399406251",
+                            "answers": [
+                                {
+                                    "text": "游客在规定时间内进入景点",
+                                    "answer_start": 10
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客在规定时间内进入景点“的第二个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "249962922480830",
+                            "answers": [
+                                {
+                                    "text": "通知游客登记",
+                                    "answer_start": 40
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客在规定时间内进入景点“的第三个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "633149977904812",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "游客在规定时间内进入景点需要判断在满足C2的前提下是否在景点关闭前通知游客。",
+                    "qas": [
+                        {
+                            "question": "这是什么的功能描述？",
+                            "type": "semantic-role",
+                            "id": "321219476138137",
+                            "answers": [
+                                {
+                                    "text": "游客在规定时间内进入景点",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客在规定时间内进入景点“的第一个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "332017212234295",
+                            "answers": [
+                                {
+                                    "text": "在景点关闭前通知游客",
+                                    "answer_start": 27
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客在规定时间内进入景点“的第二个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "690631947756244",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "在景点关闭前通知游客包括判断在满足游客为进入景点的前提下是否通知游客不许进入景点并且判断在满足游客已进入景点的前提下是否通知游客该离开了。",
+                    "qas": [
+                        {
+                            "question": "这是什么的功能描述？",
+                            "type": "semantic-role",
+                            "id": "38487996188636",
+                            "answers": [
+                                {
+                                    "text": "在景点关闭前通知游客",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”在景点关闭前通知游客“的第一个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "209208502884155",
+                            "answers": [
+                                {
+                                    "text": "通知游客不许进入景点",
+                                    "answer_start": 30
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”在景点关闭前通知游客“的第二个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "834051044574062",
+                            "answers": [
+                                {
+                                    "text": "通知游客该离开了",
+                                    "answer_start": 60
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”在景点关闭前通知游客“的第三个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "19768671289049",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "游客得到某处景物的介绍需要满足在C4条件下游客通过电子向导获得景物介绍或者在满足C5条件下游客通过手机应用获得景物介绍或者在满足C6前提下游客通过导游获得景物介绍3种情况中的至少一种。",
+                    "qas": [
+                        {
+                            "question": "这是什么的功能描述？",
+                            "type": "semantic-role",
+                            "id": "933593096439421",
+                            "answers": [
+                                {
+                                    "text": "游客得到某处景物的介绍",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客得到某处景物的介绍“的第一个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "596251300203092",
+                            "answers": [
+                                {
+                                    "text": "游客通过电子向导获得景物介绍",
+                                    "answer_start": 21
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客得到某处景物的介绍“的第二个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "186703345866629",
+                            "answers": [
+                                {
+                                    "text": "游客通过手机应用获得景物介绍",
+                                    "answer_start": 45
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客得到某处景物的介绍“的第三个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "3199937310522",
+                            "answers": [
+                                {
+                                    "text": "游客通过导游获得景物介绍",
+                                    "answer_start": 69
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客得到某处景物的介绍“的第四个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "686199068472997",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "游客通过电子向导获得景物介绍需要满足用户到达电子向导处并且游客知道如何使用电子向导。",
+                    "qas": [
+                        {
+                            "question": "这是什么的功能描述？",
+                            "type": "semantic-role",
+                            "id": "150084824746541",
+                            "answers": [
+                                {
+                                    "text": "游客通过电子向导获得景物介绍",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客通过电子向导获得景物介绍“的第一个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "615170812592283",
+                            "answers": [
+                                {
+                                    "text": "到达电子向导处",
+                                    "answer_start": 20
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客通过电子向导获得景物介绍“的第二个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "751450737958431",
+                            "answers": [
+                                {
+                                    "text": "游客知道如何使用电子向导",
+                                    "answer_start": 29
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客通过电子向导获得景物介绍“的第三个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "735949766978607",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "游客通过手机应用获得景物介绍需要满足游客手机中有向导应用而且向游客提供合适的信息。",
+                    "qas": [
+                        {
+                            "question": "这是什么的功能描述？",
+                            "type": "semantic-role",
+                            "id": "71316841675376",
+                            "answers": [
+                                {
+                                    "text": "游客通过手机应用获得景物介绍",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客通过手机应用获得景物介绍“的第一个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "781825134292757",
+                            "answers": [
+                                {
+                                    "text": "游客手机中有向导应用",
+                                    "answer_start": 18
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客通过手机应用获得景物介绍“的第二个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "315202619215730",
+                            "answers": [
+                                {
+                                    "text": "向游客提供合适的信息",
+                                    "answer_start": 30
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客通过手机应用获得景物介绍“的第二个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "981447300804590",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "游客到达电子向导处需要判断在满足C9的前提下是否有地标指引游客到电子向导处。",
+                    "qas": [
+                        {
+                            "question": "这是什么的功能描述？",
+                            "type": "semantic-role",
+                            "id": "871857999902341",
+                            "answers": [
+                                {
+                                    "text": "游客到达电子向导处",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客到达电子向导处“的第一个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "700674493771642",
+                            "answers": [
+                                {
+                                    "text": "有地标指引游客到电子向导处",
+                                    "answer_start": 24
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客到达电子向导处“的第二个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "747250048503333",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "游客知道如何使用电子向导需要判断在C15前提下是否展示电子向导使用demo。",
+                    "qas": [
+                        {
+                            "question": "这是什么的功能描述？",
+                            "type": "semantic-role",
+                            "id": "8751713937006",
+                            "answers": [
+                                {
+                                    "text": "游客知道如何使用电子向导",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客知道如何使用电子向导“的第一个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "243583646780344",
+                            "answers": [
+                                {
+                                    "text": "展示电子向导使用demo",
+                                    "answer_start": 25
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客知道如何使用电子向导“的第二个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "872203605803199",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "游客手机中有向导应用需要判断在满足C16的前提下是否粘贴下载应用的二维码。",
+                    "qas": [
+                        {
+                            "question": "这是什么的功能描述？",
+                            "type": "semantic-role",
+                            "id": "837767771555822",
+                            "answers": [
+                                {
+                                    "text": "游客手机中有向导应用",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客手机中有向导应用“的第一个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "28395441757828",
+                            "answers": [
+                                {
+                                    "text": "粘贴下载应用的二维码",
+                                    "answer_start": 26
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客手机中有向导应用“的第二个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "990433645666747",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "向游客提供适合的信息需要判断是否准备景物信息。",
+                    "qas": [
+                        {
+                            "question": "“向游客提供适合的信息需要判断是否准备景物信息”是什么的功能描述？",
+                            "type": "semantic-role",
+                            "id": "961488235781809",
+                            "answers": [
+                                {
+                                    "text": "向游客提供适合的信息",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”向游客提供适合的信息“的第一个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "471383606931110",
+                            "answers": [
+                                {
+                                    "text": "准备景物信息",
+                                    "answer_start": 16
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”向游客提供适合的信息“的第二个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "217723468430973",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "准备景物信息需要判断是否准备景物的详细信息或者准备景物的简短信息。",
+                    "qas": [
+                        {
+                            "question": "这是什么的功能描述？",
+                            "type": "semantic-role",
+                            "id": "22697678474412",
+                            "answers": [
+                                {
+                                    "text": "准备景物信息",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”准备景物信息“的第一个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "932129059622183",
+                            "answers": [
+                                {
+                                    "text": "准备景物的详细信息",
+                                    "answer_start": 12
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”准备景物信息“的第二个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "202481456773593",
+                            "answers": [
+                                {
+                                    "text": "准备景物的简短信息",
+                                    "answer_start": 23
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”准备景物信息“的第三个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "840601429817715",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "帮助游客需要包括游客遵循景点的规则并且在满足游客对某个景点感兴趣的前提下游客得到某处景物的介绍。",
+                    "qas": [
+                        {
+                            "question": "这是什么的功能描述？",
+                            "type": "semantic-role",
+                            "id": "379080941940605",
+                            "answers": [
+                                {
+                                    "text": "帮助游客",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”帮助游客“的第一个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "291329609447241",
+                            "answers": [
+                                {
+                                    "text": "游客遵循景点的规则",
+                                    "answer_start": 8
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”帮助游客“的第二个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "388036815815215",
+                            "answers": [
+                                {
+                                    "text": "游客得到某处景物的介绍",
+                                    "answer_start": 36
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”帮助游客“的第三个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "515853863800303",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "游客遵守景点规则包括游客在规定时间内进入景点并且判断是否在满足游客未登记的前提下通知游客登记。",
+                    "qas": [
+                        {
+                            "question": "这是什么的功能描述？",
+                            "type": "semantic-role",
+                            "id": "745816750864476",
+                            "answers": [
+                                {
+                                    "text": "游客遵守景点规则",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客在规定时间内进入景点“的第一个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "130650829935604",
+                            "answers": [
+                                {
+                                    "text": "游客在规定时间内进入景点",
+                                    "answer_start": 10
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客在规定时间内进入景点“的第二个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "631905418263006",
+                            "answers": [
+                                {
+                                    "text": "通知游客登记",
+                                    "answer_start": 40
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客在规定时间内进入景点“的第三个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "573805189164495",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "游客在规定时间内进入景点需要判断在满足C2的前提下是否在景点关闭前通知游客。",
+                    "qas": [
+                        {
+                            "question": "这是什么的功能描述？",
+                            "type": "semantic-role",
+                            "id": "105372686399244",
+                            "answers": [
+                                {
+                                    "text": "游客在规定时间内进入景点",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客在规定时间内进入景点“的第一个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "331689019852455",
+                            "answers": [
+                                {
+                                    "text": "在景点关闭前通知游客",
+                                    "answer_start": 27
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客在规定时间内进入景点“的第二个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "717167714417903",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "在景点关闭前通知游客包括判断在满足游客为进入景点的前提下是否通知游客不许进入景点并且判断在满足游客已进入景点的前提下是否通知游客该离开了。",
+                    "qas": [
+                        {
+                            "question": "这是什么的功能描述？",
+                            "type": "semantic-role",
+                            "id": "346048168404808",
+                            "answers": [
+                                {
+                                    "text": "在景点关闭前通知游客",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”在景点关闭前通知游客“的第一个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "70161031385784",
+                            "answers": [
+                                {
+                                    "text": "通知游客不许进入景点",
+                                    "answer_start": 30
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”在景点关闭前通知游客“的第二个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "864830903748021",
+                            "answers": [
+                                {
+                                    "text": "通知游客该离开了",
+                                    "answer_start": 60
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”在景点关闭前通知游客“的第三个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "344783636745415",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "游客得到某处景物的介绍需要满足在C4条件下游客通过电子向导获得景物介绍或者在满足C5条件下游客通过手机应用获得景物介绍或者在满足C6前提下游客通过导游获得景物介绍3种情况中的至少一种。",
+                    "qas": [
+                        {
+                            "question": "这是什么的功能描述？",
+                            "type": "semantic-role",
+                            "id": "115344331783831",
+                            "answers": [
+                                {
+                                    "text": "游客得到某处景物的介绍",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客得到某处景物的介绍“的第一个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "388995018067238",
+                            "answers": [
+                                {
+                                    "text": "游客通过电子向导获得景物介绍",
+                                    "answer_start": 21
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客得到某处景物的介绍“的第二个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "268032830808952",
+                            "answers": [
+                                {
+                                    "text": "游客通过手机应用获得景物介绍",
+                                    "answer_start": 45
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客得到某处景物的介绍“的第三个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "251705297975426",
+                            "answers": [
+                                {
+                                    "text": "游客通过导游获得景物介绍",
+                                    "answer_start": 69
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客得到某处景物的介绍“的第四个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "906994687232020",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "游客通过电子向导获得景物介绍需要满足用户到达电子向导处并且游客知道如何使用电子向导。",
+                    "qas": [
+                        {
+                            "question": "这是什么的功能描述？",
+                            "type": "semantic-role",
+                            "id": "186577999904498",
+                            "answers": [
+                                {
+                                    "text": "游客通过电子向导获得景物介绍",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客通过电子向导获得景物介绍“的第一个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "325818653747187",
+                            "answers": [
+                                {
+                                    "text": "到达电子向导处",
+                                    "answer_start": 20
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客通过电子向导获得景物介绍“的第二个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "2007746150539",
+                            "answers": [
+                                {
+                                    "text": "游客知道如何使用电子向导",
+                                    "answer_start": 29
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客通过电子向导获得景物介绍“的第三个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "351952031607167",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "游客通过手机应用获得景物介绍需要满足游客手机中有向导应用而且向游客提供合适的信息。",
+                    "qas": [
+                        {
+                            "question": "这是什么的功能描述？",
+                            "type": "semantic-role",
+                            "id": "837097955740816",
+                            "answers": [
+                                {
+                                    "text": "游客通过手机应用获得景物介绍",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客通过手机应用获得景物介绍“的第一个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "833035462669280",
+                            "answers": [
+                                {
+                                    "text": "游客手机中有向导应用",
+                                    "answer_start": 18
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客通过手机应用获得景物介绍“的第二个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "386757779587406",
+                            "answers": [
+                                {
+                                    "text": "向游客提供合适的信息",
+                                    "answer_start": 30
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客通过手机应用获得景物介绍“的第二个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "15884368881655",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "游客到达电子向导处需要判断在满足C9的前提下是否有地标指引游客到电子向导处。",
+                    "qas": [
+                        {
+                            "question": "这是什么的功能描述？",
+                            "type": "semantic-role",
+                            "id": "574906969577222",
+                            "answers": [
+                                {
+                                    "text": "游客到达电子向导处",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客到达电子向导处“的第一个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "54782008051600",
+                            "answers": [
+                                {
+                                    "text": "有地标指引游客到电子向导处",
+                                    "answer_start": 24
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客到达电子向导处“的第二个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "303300049154318",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "游客知道如何使用电子向导需要判断在C15前提下是否展示电子向导使用demo。",
+                    "qas": [
+                        {
+                            "question": "这是什么的功能描述？",
+                            "type": "semantic-role",
+                            "id": "422306841743786",
+                            "answers": [
+                                {
+                                    "text": "游客知道如何使用电子向导",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客知道如何使用电子向导“的第一个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "232483860695543",
+                            "answers": [
+                                {
+                                    "text": "展示电子向导使用demo",
+                                    "answer_start": 25
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客知道如何使用电子向导“的第二个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "753705154615138",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "游客手机中有向导应用需要判断在满足C16的前提下是否粘贴下载应用的二维码。",
+                    "qas": [
+                        {
+                            "question": "这是什么的功能描述？",
+                            "type": "semantic-role",
+                            "id": "251532069990398",
+                            "answers": [
+                                {
+                                    "text": "游客手机中有向导应用",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客手机中有向导应用“的第一个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "87238946830740",
+                            "answers": [
+                                {
+                                    "text": "粘贴下载应用的二维码",
+                                    "answer_start": 26
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客手机中有向导应用“的第二个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "913219853103217",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "向游客提供适合的信息需要判断是否准备景物信息。",
+                    "qas": [
+                        {
+                            "question": "“向游客提供适合的信息需要判断是否准备景物信息”是什么的功能描述？",
+                            "type": "semantic-role",
+                            "id": "72757291529615",
+                            "answers": [
+                                {
+                                    "text": "向游客提供适合的信息",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”向游客提供适合的信息“的第一个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "269412001984219",
+                            "answers": [
+                                {
+                                    "text": "准备景物信息",
+                                    "answer_start": 16
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”向游客提供适合的信息“的第二个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "290335935697824",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "准备景物信息需要判断是否准备景物的详细信息或者准备景物的简短信息。",
+                    "qas": [
+                        {
+                            "question": "这是什么的功能描述？",
+                            "type": "semantic-role",
+                            "id": "426408183526171",
+                            "answers": [
+                                {
+                                    "text": "准备景物信息",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”准备景物信息“的第一个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "124199585370973",
+                            "answers": [
+                                {
+                                    "text": "准备景物的详细信息",
+                                    "answer_start": 12
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”准备景物信息“的第二个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "38759509203554",
+                            "answers": [
+                                {
+                                    "text": "准备景物的简短信息",
+                                    "answer_start": 23
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”准备景物信息“的第三个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "349570165141231",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "帮助游客需要包括游客遵循景点的规则并且在满足游客对某个景点感兴趣的前提下游客得到某处景物的介绍。",
+                    "qas": [
+                        {
+                            "question": "这是什么的功能描述？",
+                            "type": "semantic-role",
+                            "id": "129858035654761",
+                            "answers": [
+                                {
+                                    "text": "帮助游客",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”帮助游客“的第一个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "235213077490269",
+                            "answers": [
+                                {
+                                    "text": "游客遵循景点的规则",
+                                    "answer_start": 8
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”帮助游客“的第二个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "950836833286970",
+                            "answers": [
+                                {
+                                    "text": "游客得到某处景物的介绍",
+                                    "answer_start": 36
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”帮助游客“的第三个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "898063804847026",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "游客遵守景点规则包括游客在规定时间内进入景点并且判断是否在满足游客未登记的前提下通知游客登记。",
+                    "qas": [
+                        {
+                            "question": "这是什么的功能描述？",
+                            "type": "semantic-role",
+                            "id": "532662884134847",
+                            "answers": [
+                                {
+                                    "text": "游客遵守景点规则",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客在规定时间内进入景点“的第一个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "889372309086584",
+                            "answers": [
+                                {
+                                    "text": "游客在规定时间内进入景点",
+                                    "answer_start": 10
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客在规定时间内进入景点“的第二个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "779880236578886",
+                            "answers": [
+                                {
+                                    "text": "通知游客登记",
+                                    "answer_start": 40
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客在规定时间内进入景点“的第三个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "78993644569157",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "游客在规定时间内进入景点需要判断在满足C2的前提下是否在景点关闭前通知游客。",
+                    "qas": [
+                        {
+                            "question": "这是什么的功能描述？",
+                            "type": "semantic-role",
+                            "id": "169311232024738",
+                            "answers": [
+                                {
+                                    "text": "游客在规定时间内进入景点",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客在规定时间内进入景点“的第一个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "373165436308847",
+                            "answers": [
+                                {
+                                    "text": "在景点关闭前通知游客",
+                                    "answer_start": 27
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客在规定时间内进入景点“的第二个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "508861992477863",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "在景点关闭前通知游客包括判断在满足游客为进入景点的前提下是否通知游客不许进入景点并且判断在满足游客已进入景点的前提下是否通知游客该离开了。",
+                    "qas": [
+                        {
+                            "question": "这是什么的功能描述？",
+                            "type": "semantic-role",
+                            "id": "825321392333841",
+                            "answers": [
+                                {
+                                    "text": "在景点关闭前通知游客",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”在景点关闭前通知游客“的第一个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "532435394406530",
+                            "answers": [
+                                {
+                                    "text": "通知游客不许进入景点",
+                                    "answer_start": 30
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”在景点关闭前通知游客“的第二个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "74197693138468",
+                            "answers": [
+                                {
+                                    "text": "通知游客该离开了",
+                                    "answer_start": 60
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”在景点关闭前通知游客“的第三个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "670840828546566",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "游客得到某处景物的介绍需要满足在C4条件下游客通过电子向导获得景物介绍或者在满足C5条件下游客通过手机应用获得景物介绍或者在满足C6前提下游客通过导游获得景物介绍3种情况中的至少一种。",
+                    "qas": [
+                        {
+                            "question": "这是什么的功能描述？",
+                            "type": "semantic-role",
+                            "id": "27213841960906",
+                            "answers": [
+                                {
+                                    "text": "游客得到某处景物的介绍",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客得到某处景物的介绍“的第一个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "629251481908306",
+                            "answers": [
+                                {
+                                    "text": "游客通过电子向导获得景物介绍",
+                                    "answer_start": 21
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客得到某处景物的介绍“的第二个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "582054310916367",
+                            "answers": [
+                                {
+                                    "text": "游客通过手机应用获得景物介绍",
+                                    "answer_start": 45
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客得到某处景物的介绍“的第三个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "364167695191760",
+                            "answers": [
+                                {
+                                    "text": "游客通过导游获得景物介绍",
+                                    "answer_start": 69
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客得到某处景物的介绍“的第四个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "284080028064180",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "游客通过电子向导获得景物介绍需要满足用户到达电子向导处并且游客知道如何使用电子向导。",
+                    "qas": [
+                        {
+                            "question": "这是什么的功能描述？",
+                            "type": "semantic-role",
+                            "id": "921559691388764",
+                            "answers": [
+                                {
+                                    "text": "游客通过电子向导获得景物介绍",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客通过电子向导获得景物介绍“的第一个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "963731976153405",
+                            "answers": [
+                                {
+                                    "text": "到达电子向导处",
+                                    "answer_start": 20
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客通过电子向导获得景物介绍“的第二个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "743598439759931",
+                            "answers": [
+                                {
+                                    "text": "游客知道如何使用电子向导",
+                                    "answer_start": 29
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客通过电子向导获得景物介绍“的第三个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "244117476495800",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "游客通过手机应用获得景物介绍需要满足游客手机中有向导应用而且向游客提供合适的信息。",
+                    "qas": [
+                        {
+                            "question": "这是什么的功能描述？",
+                            "type": "semantic-role",
+                            "id": "372807559217843",
+                            "answers": [
+                                {
+                                    "text": "游客通过手机应用获得景物介绍",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客通过手机应用获得景物介绍“的第一个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "204828072853521",
+                            "answers": [
+                                {
+                                    "text": "游客手机中有向导应用",
+                                    "answer_start": 18
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客通过手机应用获得景物介绍“的第二个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "828454180921174",
+                            "answers": [
+                                {
+                                    "text": "向游客提供合适的信息",
+                                    "answer_start": 30
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客通过手机应用获得景物介绍“的第二个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "188470733207984",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "游客到达电子向导处需要判断在满足C9的前提下是否有地标指引游客到电子向导处。",
+                    "qas": [
+                        {
+                            "question": "这是什么的功能描述？",
+                            "type": "semantic-role",
+                            "id": "740594872221308",
+                            "answers": [
+                                {
+                                    "text": "游客到达电子向导处",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客到达电子向导处“的第一个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "60629889536387",
+                            "answers": [
+                                {
+                                    "text": "有地标指引游客到电子向导处",
+                                    "answer_start": 24
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客到达电子向导处“的第二个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "398361206976711",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "游客知道如何使用电子向导需要判断在C15前提下是否展示电子向导使用demo。",
+                    "qas": [
+                        {
+                            "question": "这是什么的功能描述？",
+                            "type": "semantic-role",
+                            "id": "445424265877904",
+                            "answers": [
+                                {
+                                    "text": "游客知道如何使用电子向导",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客知道如何使用电子向导“的第一个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "893874581373352",
+                            "answers": [
+                                {
+                                    "text": "展示电子向导使用demo",
+                                    "answer_start": 25
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客知道如何使用电子向导“的第二个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "614541788636239",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "游客手机中有向导应用需要判断在满足C16的前提下是否粘贴下载应用的二维码。",
+                    "qas": [
+                        {
+                            "question": "这是什么的功能描述？",
+                            "type": "semantic-role",
+                            "id": "449602453090394",
+                            "answers": [
+                                {
+                                    "text": "游客手机中有向导应用",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客手机中有向导应用“的第一个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "866979943120640",
+                            "answers": [
+                                {
+                                    "text": "粘贴下载应用的二维码",
+                                    "answer_start": 26
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客手机中有向导应用“的第二个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "208684362469021",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "向游客提供适合的信息需要判断是否准备景物信息。",
+                    "qas": [
+                        {
+                            "question": "“向游客提供适合的信息需要判断是否准备景物信息”是什么的功能描述？",
+                            "type": "semantic-role",
+                            "id": "545467847549900",
+                            "answers": [
+                                {
+                                    "text": "向游客提供适合的信息",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”向游客提供适合的信息“的第一个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "344487534653836",
+                            "answers": [
+                                {
+                                    "text": "准备景物信息",
+                                    "answer_start": 16
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”向游客提供适合的信息“的第二个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "433785848484450",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "准备景物信息需要判断是否准备景物的详细信息或者准备景物的简短信息。",
+                    "qas": [
+                        {
+                            "question": "这是什么的功能描述？",
+                            "type": "semantic-role",
+                            "id": "932120075596837",
+                            "answers": [
+                                {
+                                    "text": "准备景物信息",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”准备景物信息“的第一个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "929952658874640",
+                            "answers": [
+                                {
+                                    "text": "准备景物的详细信息",
+                                    "answer_start": 12
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”准备景物信息“的第二个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "801763962131361",
+                            "answers": [
+                                {
+                                    "text": "准备景物的简短信息",
+                                    "answer_start": 23
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”准备景物信息“的第三个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "480471936095502",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "帮助游客需要包括游客遵循景点的规则并且在满足游客对某个景点感兴趣的前提下游客得到某处景物的介绍。",
+                    "qas": [
+                        {
+                            "question": "这是什么的功能描述？",
+                            "type": "semantic-role",
+                            "id": "156264101359790",
+                            "answers": [
+                                {
+                                    "text": "帮助游客",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”帮助游客“的第一个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "791950116510065",
+                            "answers": [
+                                {
+                                    "text": "游客遵循景点的规则",
+                                    "answer_start": 8
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”帮助游客“的第二个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "920545891068884",
+                            "answers": [
+                                {
+                                    "text": "游客得到某处景物的介绍",
+                                    "answer_start": 36
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”帮助游客“的第三个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "495636285655669",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "游客遵守景点规则包括游客在规定时间内进入景点并且判断是否在满足游客未登记的前提下通知游客登记。",
+                    "qas": [
+                        {
+                            "question": "这是什么的功能描述？",
+                            "type": "semantic-role",
+                            "id": "10268750160831",
+                            "answers": [
+                                {
+                                    "text": "游客遵守景点规则",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客在规定时间内进入景点“的第一个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "36975181371528",
+                            "answers": [
+                                {
+                                    "text": "游客在规定时间内进入景点",
+                                    "answer_start": 10
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客在规定时间内进入景点“的第二个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "711594897789162",
+                            "answers": [
+                                {
+                                    "text": "通知游客登记",
+                                    "answer_start": 40
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客在规定时间内进入景点“的第三个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "985082795271830",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "游客在规定时间内进入景点需要判断在满足C2的前提下是否在景点关闭前通知游客。",
+                    "qas": [
+                        {
+                            "question": "这是什么的功能描述？",
+                            "type": "semantic-role",
+                            "id": "449886058520173",
+                            "answers": [
+                                {
+                                    "text": "游客在规定时间内进入景点",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客在规定时间内进入景点“的第一个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "810337611462116",
+                            "answers": [
+                                {
+                                    "text": "在景点关闭前通知游客",
+                                    "answer_start": 27
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客在规定时间内进入景点“的第二个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "482698828781400",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "在景点关闭前通知游客包括判断在满足游客为进入景点的前提下是否通知游客不许进入景点并且判断在满足游客已进入景点的前提下是否通知游客该离开了。",
+                    "qas": [
+                        {
+                            "question": "这是什么的功能描述？",
+                            "type": "semantic-role",
+                            "id": "695396092507527",
+                            "answers": [
+                                {
+                                    "text": "在景点关闭前通知游客",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”在景点关闭前通知游客“的第一个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "969155424838357",
+                            "answers": [
+                                {
+                                    "text": "通知游客不许进入景点",
+                                    "answer_start": 30
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”在景点关闭前通知游客“的第二个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "833772640798395",
+                            "answers": [
+                                {
+                                    "text": "通知游客该离开了",
+                                    "answer_start": 60
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”在景点关闭前通知游客“的第三个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "295619634789830",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "游客得到某处景物的介绍需要满足在C4条件下游客通过电子向导获得景物介绍或者在满足C5条件下游客通过手机应用获得景物介绍或者在满足C6前提下游客通过导游获得景物介绍3种情况中的至少一种。",
+                    "qas": [
+                        {
+                            "question": "这是什么的功能描述？",
+                            "type": "semantic-role",
+                            "id": "93902687747032",
+                            "answers": [
+                                {
+                                    "text": "游客得到某处景物的介绍",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客得到某处景物的介绍“的第一个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "482654503227363",
+                            "answers": [
+                                {
+                                    "text": "游客通过电子向导获得景物介绍",
+                                    "answer_start": 21
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客得到某处景物的介绍“的第二个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "987742061267300",
+                            "answers": [
+                                {
+                                    "text": "游客通过手机应用获得景物介绍",
+                                    "answer_start": 45
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客得到某处景物的介绍“的第三个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "43864678122627",
+                            "answers": [
+                                {
+                                    "text": "游客通过导游获得景物介绍",
+                                    "answer_start": 69
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客得到某处景物的介绍“的第四个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "740502658643228",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "游客通过电子向导获得景物介绍需要满足用户到达电子向导处并且游客知道如何使用电子向导。",
+                    "qas": [
+                        {
+                            "question": "这是什么的功能描述？",
+                            "type": "semantic-role",
+                            "id": "660005949281614",
+                            "answers": [
+                                {
+                                    "text": "游客通过电子向导获得景物介绍",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客通过电子向导获得景物介绍“的第一个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "94136633659436",
+                            "answers": [
+                                {
+                                    "text": "到达电子向导处",
+                                    "answer_start": 20
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客通过电子向导获得景物介绍“的第二个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "418115691990332",
+                            "answers": [
+                                {
+                                    "text": "游客知道如何使用电子向导",
+                                    "answer_start": 29
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客通过电子向导获得景物介绍“的第三个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "432027721147137",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "游客通过手机应用获得景物介绍需要满足游客手机中有向导应用而且向游客提供合适的信息。",
+                    "qas": [
+                        {
+                            "question": "这是什么的功能描述？",
+                            "type": "semantic-role",
+                            "id": "753930349648571",
+                            "answers": [
+                                {
+                                    "text": "游客通过手机应用获得景物介绍",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客通过手机应用获得景物介绍“的第一个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "820941964282844",
+                            "answers": [
+                                {
+                                    "text": "游客手机中有向导应用",
+                                    "answer_start": 18
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客通过手机应用获得景物介绍“的第二个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "531983802543520",
+                            "answers": [
+                                {
+                                    "text": "向游客提供合适的信息",
+                                    "answer_start": 30
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客通过手机应用获得景物介绍“的第二个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "534099555014515",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "游客到达电子向导处需要判断在满足C9的前提下是否有地标指引游客到电子向导处。",
+                    "qas": [
+                        {
+                            "question": "这是什么的功能描述？",
+                            "type": "semantic-role",
+                            "id": "330914291579481",
+                            "answers": [
+                                {
+                                    "text": "游客到达电子向导处",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客到达电子向导处“的第一个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "450534849789515",
+                            "answers": [
+                                {
+                                    "text": "有地标指引游客到电子向导处",
+                                    "answer_start": 24
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客到达电子向导处“的第二个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "378107328900592",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "游客知道如何使用电子向导需要判断在C15前提下是否展示电子向导使用demo。",
+                    "qas": [
+                        {
+                            "question": "这是什么的功能描述？",
+                            "type": "semantic-role",
+                            "id": "194287090689925",
+                            "answers": [
+                                {
+                                    "text": "游客知道如何使用电子向导",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客知道如何使用电子向导“的第一个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "813195219313916",
+                            "answers": [
+                                {
+                                    "text": "展示电子向导使用demo",
+                                    "answer_start": 25
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客知道如何使用电子向导“的第二个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "795362185913861",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "游客手机中有向导应用需要判断在满足C16的前提下是否粘贴下载应用的二维码。",
+                    "qas": [
+                        {
+                            "question": "这是什么的功能描述？",
+                            "type": "semantic-role",
+                            "id": "935003507153868",
+                            "answers": [
+                                {
+                                    "text": "游客手机中有向导应用",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客手机中有向导应用“的第一个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "115290600087214",
+                            "answers": [
+                                {
+                                    "text": "粘贴下载应用的二维码",
+                                    "answer_start": 26
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客手机中有向导应用“的第二个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "50445724548744",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "向游客提供适合的信息需要判断是否准备景物信息。",
+                    "qas": [
+                        {
+                            "question": "“向游客提供适合的信息需要判断是否准备景物信息”是什么的功能描述？",
+                            "type": "semantic-role",
+                            "id": "288561239438745",
+                            "answers": [
+                                {
+                                    "text": "向游客提供适合的信息",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”向游客提供适合的信息“的第一个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "708864843090489",
+                            "answers": [
+                                {
+                                    "text": "准备景物信息",
+                                    "answer_start": 16
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”向游客提供适合的信息“的第二个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "966318887422555",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "准备景物信息需要判断是否准备景物的详细信息或者准备景物的简短信息。",
+                    "qas": [
+                        {
+                            "question": "这是什么的功能描述？",
+                            "type": "semantic-role",
+                            "id": "851470427274782",
+                            "answers": [
+                                {
+                                    "text": "准备景物信息",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”准备景物信息“的第一个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "729810679583276",
+                            "answers": [
+                                {
+                                    "text": "准备景物的详细信息",
+                                    "answer_start": 12
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”准备景物信息“的第二个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "751263985452438",
+                            "answers": [
+                                {
+                                    "text": "准备景物的简短信息",
+                                    "answer_start": 23
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”准备景物信息“的第三个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "140934646291205",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "帮助游客需要包括游客遵循景点的规则并且在满足游客对某个景点感兴趣的前提下游客得到某处景物的介绍。",
+                    "qas": [
+                        {
+                            "question": "这是什么的功能描述？",
+                            "type": "semantic-role",
+                            "id": "328429998140672",
+                            "answers": [
+                                {
+                                    "text": "帮助游客",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”帮助游客“的第一个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "394560816069741",
+                            "answers": [
+                                {
+                                    "text": "游客遵循景点的规则",
+                                    "answer_start": 8
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”帮助游客“的第二个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "644341988533845",
+                            "answers": [
+                                {
+                                    "text": "游客得到某处景物的介绍",
+                                    "answer_start": 36
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”帮助游客“的第三个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "609289818308116",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "游客遵守景点规则包括游客在规定时间内进入景点并且判断是否在满足游客未登记的前提下通知游客登记。",
+                    "qas": [
+                        {
+                            "question": "这是什么的功能描述？",
+                            "type": "semantic-role",
+                            "id": "656743631990474",
+                            "answers": [
+                                {
+                                    "text": "游客遵守景点规则",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客在规定时间内进入景点“的第一个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "72893844425958",
+                            "answers": [
+                                {
+                                    "text": "游客在规定时间内进入景点",
+                                    "answer_start": 10
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客在规定时间内进入景点“的第二个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "885142071050565",
+                            "answers": [
+                                {
+                                    "text": "通知游客登记",
+                                    "answer_start": 40
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客在规定时间内进入景点“的第三个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "250546898255165",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "游客在规定时间内进入景点需要判断在满足C2的前提下是否在景点关闭前通知游客。",
+                    "qas": [
+                        {
+                            "question": "这是什么的功能描述？",
+                            "type": "semantic-role",
+                            "id": "929616790414424",
+                            "answers": [
+                                {
+                                    "text": "游客在规定时间内进入景点",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客在规定时间内进入景点“的第一个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "719317865690153",
+                            "answers": [
+                                {
+                                    "text": "在景点关闭前通知游客",
+                                    "answer_start": 27
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客在规定时间内进入景点“的第二个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "867782789802988",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "在景点关闭前通知游客包括判断在满足游客为进入景点的前提下是否通知游客不许进入景点并且判断在满足游客已进入景点的前提下是否通知游客该离开了。",
+                    "qas": [
+                        {
+                            "question": "这是什么的功能描述？",
+                            "type": "semantic-role",
+                            "id": "361849271982349",
+                            "answers": [
+                                {
+                                    "text": "在景点关闭前通知游客",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”在景点关闭前通知游客“的第一个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "487432946629161",
+                            "answers": [
+                                {
+                                    "text": "通知游客不许进入景点",
+                                    "answer_start": 30
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”在景点关闭前通知游客“的第二个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "63430684899368",
+                            "answers": [
+                                {
+                                    "text": "通知游客该离开了",
+                                    "answer_start": 60
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”在景点关闭前通知游客“的第三个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "667377907352280",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "游客得到某处景物的介绍需要满足在C4条件下游客通过电子向导获得景物介绍或者在满足C5条件下游客通过手机应用获得景物介绍或者在满足C6前提下游客通过导游获得景物介绍3种情况中的至少一种。",
+                    "qas": [
+                        {
+                            "question": "这是什么的功能描述？",
+                            "type": "semantic-role",
+                            "id": "149239184851569",
+                            "answers": [
+                                {
+                                    "text": "游客得到某处景物的介绍",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客得到某处景物的介绍“的第一个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "763891921955683",
+                            "answers": [
+                                {
+                                    "text": "游客通过电子向导获得景物介绍",
+                                    "answer_start": 21
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客得到某处景物的介绍“的第二个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "232118450274001",
+                            "answers": [
+                                {
+                                    "text": "游客通过手机应用获得景物介绍",
+                                    "answer_start": 45
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客得到某处景物的介绍“的第三个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "268736375255874",
+                            "answers": [
+                                {
+                                    "text": "游客通过导游获得景物介绍",
+                                    "answer_start": 69
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客得到某处景物的介绍“的第四个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "719999828554292",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "游客通过电子向导获得景物介绍需要满足用户到达电子向导处并且游客知道如何使用电子向导。",
+                    "qas": [
+                        {
+                            "question": "这是什么的功能描述？",
+                            "type": "semantic-role",
+                            "id": "576182481050336",
+                            "answers": [
+                                {
+                                    "text": "游客通过电子向导获得景物介绍",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客通过电子向导获得景物介绍“的第一个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "100266337297691",
+                            "answers": [
+                                {
+                                    "text": "到达电子向导处",
+                                    "answer_start": 20
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客通过电子向导获得景物介绍“的第二个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "907463335103858",
+                            "answers": [
+                                {
+                                    "text": "游客知道如何使用电子向导",
+                                    "answer_start": 29
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客通过电子向导获得景物介绍“的第三个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "989567530155622",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "游客通过手机应用获得景物介绍需要满足游客手机中有向导应用而且向游客提供合适的信息。",
+                    "qas": [
+                        {
+                            "question": "这是什么的功能描述？",
+                            "type": "semantic-role",
+                            "id": "59385592516247",
+                            "answers": [
+                                {
+                                    "text": "游客通过手机应用获得景物介绍",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客通过手机应用获得景物介绍“的第一个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "66440119680021",
+                            "answers": [
+                                {
+                                    "text": "游客手机中有向导应用",
+                                    "answer_start": 18
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客通过手机应用获得景物介绍“的第二个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "669432965125736",
+                            "answers": [
+                                {
+                                    "text": "向游客提供合适的信息",
+                                    "answer_start": 30
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客通过手机应用获得景物介绍“的第二个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "328731376980309",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "游客到达电子向导处需要判断在满足C9的前提下是否有地标指引游客到电子向导处。",
+                    "qas": [
+                        {
+                            "question": "这是什么的功能描述？",
+                            "type": "semantic-role",
+                            "id": "472961556440802",
+                            "answers": [
+                                {
+                                    "text": "游客到达电子向导处",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客到达电子向导处“的第一个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "126484068129597",
+                            "answers": [
+                                {
+                                    "text": "有地标指引游客到电子向导处",
+                                    "answer_start": 24
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客到达电子向导处“的第二个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "955486988517340",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "游客知道如何使用电子向导需要判断在C15前提下是否展示电子向导使用demo。",
+                    "qas": [
+                        {
+                            "question": "这是什么的功能描述？",
+                            "type": "semantic-role",
+                            "id": "374657661462482",
+                            "answers": [
+                                {
+                                    "text": "游客知道如何使用电子向导",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客知道如何使用电子向导“的第一个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "272421229551367",
+                            "answers": [
+                                {
+                                    "text": "展示电子向导使用demo",
+                                    "answer_start": 25
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客知道如何使用电子向导“的第二个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "434721841495201",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "游客手机中有向导应用需要判断在满足C16的前提下是否粘贴下载应用的二维码。",
+                    "qas": [
+                        {
+                            "question": "这是什么的功能描述？",
+                            "type": "semantic-role",
+                            "id": "45748438754111",
+                            "answers": [
+                                {
+                                    "text": "游客手机中有向导应用",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客手机中有向导应用“的第一个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "109041476270433",
+                            "answers": [
+                                {
+                                    "text": "粘贴下载应用的二维码",
+                                    "answer_start": 26
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”游客手机中有向导应用“的第二个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "890273849234686",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "向游客提供适合的信息需要判断是否准备景物信息。",
+                    "qas": [
+                        {
+                            "question": "“向游客提供适合的信息需要判断是否准备景物信息”是什么的功能描述？",
+                            "type": "semantic-role",
+                            "id": "864700949536513",
+                            "answers": [
+                                {
+                                    "text": "向游客提供适合的信息",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”向游客提供适合的信息“的第一个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "886082000712982",
+                            "answers": [
+                                {
+                                    "text": "准备景物信息",
+                                    "answer_start": 16
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”向游客提供适合的信息“的第二个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "535103139805775",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "准备景物信息需要判断是否准备景物的详细信息或者准备景物的简短信息。",
+                    "qas": [
+                        {
+                            "question": "这是什么的功能描述？",
+                            "type": "semantic-role",
+                            "id": "687335718924696",
+                            "answers": [
+                                {
+                                    "text": "准备景物信息",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”准备景物信息“的第一个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "711959321815669",
+                            "answers": [
+                                {
+                                    "text": "准备景物的详细信息",
+                                    "answer_start": 12
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”准备景物信息“的第二个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "303207766828537",
+                            "answers": [
+                                {
+                                    "text": "准备景物的简短信息",
+                                    "answer_start": 23
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "完成”准备景物信息“的第三个前提是什么？",
+                            "type": "vocab_noun",
+                            "id": "484256073628218",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,3098 @@
+{
+    "data": [
+        {
+            "paragraphs": [
+                {
+                    "context": "帮助游客需要包括游客遵循景点的规则并且在满足游客对某个景点感兴趣的前提下游客得到某处景物的介绍。",
+                    "qas": [
+                        {
+                            "question": "这是什么功能的描述？",
+                            "type": "vocab_noun",
+                            "id": "52389218515294",
+                            "answers": [
+                                {
+                                    "text": "帮助游客",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "帮助游客的子功能或任务是什么？",
+                            "type": "vocab_noun",
+                            "id": "973527110905677",
+                            "answers": [
+                                {
+                                    "text": "游客遵循景点的规则",
+                                    "answer_start": 8
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "游客遵循景点的规则的下一个子功能或任务是什么？",
+                            "type": "vocab_noun",
+                            "id": "608671671057084",
+                            "answers": [
+                                {
+                                    "text": "游客得到某处景物的介绍",
+                                    "answer_start": 36
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "游客得到某处景物的介绍的下一个子功能或任务是什么？",
+                            "type": "vocab_noun",
+                            "id": "654938249312428",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "游客遵守景点规则包括游客在规定时间内进入景点并且判断是否在满足游客未登记的前提下通知游客登记。",
+                    "qas": [
+                        {
+                            "question": "这是什么功能的描述？",
+                            "type": "vocab_noun",
+                            "id": "649462660103515",
+                            "answers": [
+                                {
+                                    "text": "游客遵守景点规则",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "游客遵守景点规则的子功能或任务是什么？",
+                            "type": "vocab_noun",
+                            "id": "468390751043904",
+                            "answers": [
+                                {
+                                    "text": "游客在规定时间内进入景点",
+                                    "answer_start": 10
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "游客在规定时间内进入景点的下一个子功能或任务是什么？",
+                            "type": "vocab_noun",
+                            "id": "109618097264264",
+                            "answers": [
+                                {
+                                    "text": "通知游客登记",
+                                    "answer_start": 40
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "通知游客登记的下一个子功能或任务是什么？",
+                            "type": "vocab_noun",
+                            "id": "44142857200136",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "游客在规定时间内进入景点需要判断在满足C2的前提下是否在景点关闭前通知游客。",
+                    "qas": [
+                        {
+                            "question": "这是什么功能的描述？",
+                            "type": "vocab_noun",
+                            "id": "603192818096828",
+                            "answers": [
+                                {
+                                    "text": "游客在规定时间内进入景点",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "游客在规定时间内进入景点的子功能或任务是什么？",
+                            "type": "vocab_noun",
+                            "id": "590346500935143",
+                            "answers": [
+                                {
+                                    "text": "在景点关闭前通知游客",
+                                    "answer_start": 27
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "在景点关闭前通知游客的下一个子功能或任务是什么？",
+                            "type": "vocab_noun",
+                            "id": "915383576856327",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "在景点关闭前通知游客包括判断在满足游客为进入景点的前提下是否通知游客不许进入景点并且判断在满足游客已进入景点的前提下是否通知游客该离开了。",
+                    "qas": [
+                        {
+                            "question": "这是什么功能的描述？",
+                            "type": "vocab_noun",
+                            "id": "917934133744462",
+                            "answers": [
+                                {
+                                    "text": "在景点关闭前通知游客",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "在景点关闭前通知游客的子功能或任务是什么？",
+                            "type": "vocab_noun",
+                            "id": "771226013912917",
+                            "answers": [
+                                {
+                                    "text": "通知游客不许进入景点",
+                                    "answer_start": 30
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "通知游客不许进入景点的下一个子功能或任务是什么？",
+                            "type": "vocab_noun",
+                            "id": "467058036360588",
+                            "answers": [
+                                {
+                                    "text": "通知游客该离开了",
+                                    "answer_start": 60
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "通知游客该离开了的下一个子功能或任务是什么？",
+                            "type": "vocab_noun",
+                            "id": "161946078268240",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "游客得到某处景物的介绍需要满足在C4条件下游客通过电子向导获得景物介绍或者在满足C5条件下游客通过手机应用获得景物介绍或者在满足C6前提下游客通过导游获得景物介绍3种情况中的至少一种。",
+                    "qas": [
+                        {
+                            "question": "这是什么功能的描述？",
+                            "type": "vocab_noun",
+                            "id": "325289618662025",
+                            "answers": [
+                                {
+                                    "text": "游客得到某处景物的介绍",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "游客得到某处景物的介绍的子功能或任务是什么？",
+                            "type": "vocab_noun",
+                            "id": "351510047033858",
+                            "answers": [
+                                {
+                                    "text": "游客通过电子向导获得景物介绍",
+                                    "answer_start": 21
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "游客通过电子向导获得景物介绍的下一个子功能或任务是什么？",
+                            "type": "vocab_noun",
+                            "id": "152094270713935",
+                            "answers": [
+                                {
+                                    "text": "游客通过手机应用获得景物介绍",
+                                    "answer_start": 45
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "游客通过手机应用获得景物介绍的下一个子功能或任务是什么？",
+                            "type": "vocab_noun",
+                            "id": "141880675940969",
+                            "answers": [
+                                {
+                                    "text": "游客通过导游获得景物介绍",
+                                    "answer_start": 69
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "游客通过导游获得景物介绍的下一个子功能或任务是什么？",
+                            "type": "vocab_noun",
+                            "id": "719878123006203",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "游客通过电子向导获得景物介绍需要满足用户到达电子向导处并且游客知道如何使用电子向导。",
+                    "qas": [
+                        {
+                            "question": "这是什么功能的描述？",
+                            "type": "vocab_noun",
+                            "id": "717547716714745",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "游客通过电子向导获得景物介绍的子功能或任务是什么？到达电子向导处",
+                            "type": "vocab_noun",
+                            "id": "639202538711586",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "到达电子向导处的下一个子功能或任务是什么？游客知道如何使用电子向导",
+                            "type": "vocab_noun",
+                            "id": "678359931759217",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "游客知道如何使用电子向导的下一个子功能或任务是什么？",
+                            "type": "vocab_noun",
+                            "id": "220521299332944",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "游客通过手机应用获得景物介绍需要满足游客手机中有向导应用而且向游客提供合适的信息。",
+                    "qas": [
+                        {
+                            "question": "这是什么功能的描述？",
+                            "type": "vocab_noun",
+                            "id": "670593896161358",
+                            "answers": [
+                                {
+                                    "text": "游客通过手机应用获得景物介绍",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "游客通过手机应用获得景物介绍的子功能或任务是什么？",
+                            "type": "vocab_noun",
+                            "id": "42701282255685",
+                            "answers": [
+                                {
+                                    "text": "游客手机中有向导应用",
+                                    "answer_start": 18
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "游客手机中有向导应用的下一个子功能或任务是什么？",
+                            "type": "vocab_noun",
+                            "id": "935678292951676",
+                            "answers": [
+                                {
+                                    "text": "向游客提供合适的信息",
+                                    "answer_start": 30
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "向游客提供合适的信息的下一个子功能或任务是什么？",
+                            "type": "vocab_noun",
+                            "id": "575755421640046",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "游客到达电子向导处需要判断在满足C9的前提下是否有地标指引游客到电子向导处。",
+                    "qas": [
+                        {
+                            "question": "这是什么功能的描述？",
+                            "type": "vocab_noun",
+                            "id": "696465192718288",
+                            "answers": [
+                                {
+                                    "text": "游客到达电子向导处",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "游客到达电子向导处的子功能或任务是什么？",
+                            "type": "vocab_noun",
+                            "id": "908935339320178",
+                            "answers": [
+                                {
+                                    "text": "有地标指引游客到电子向导处",
+                                    "answer_start": 24
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "有地标指引游客到电子向导处的下一个子功能或任务是什么？",
+                            "type": "vocab_noun",
+                            "id": "28935065573850",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "游客知道如何使用电子向导需要判断在C15前提下是否展示电子向导使用demo。",
+                    "qas": [
+                        {
+                            "question": "这是什么功能的描述？",
+                            "type": "vocab_noun",
+                            "id": "713663093330241",
+                            "answers": [
+                                {
+                                    "text": "游客知道如何使用电子向导",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "游客知道如何使用电子向导的子功能或任务是什么？",
+                            "type": "vocab_noun",
+                            "id": "421758487155645",
+                            "answers": [
+                                {
+                                    "text": "展示电子向导使用demo",
+                                    "answer_start": 25
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "展示电子向导使用demo的下一个子功能或任务是什么？",
+                            "type": "vocab_noun",
+                            "id": "325908209543819",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "游客手机中有向导应用需要判断在满足C16的前提下是否粘贴下载应用的二维码。",
+                    "qas": [
+                        {
+                            "question": "这是什么功能的描述？",
+                            "type": "vocab_noun",
+                            "id": "78957089550295",
+                            "answers": [
+                                {
+                                    "text": "游客手机中有向导应用",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "游客手机中有向导应用的子功能或任务是什么？",
+                            "type": "vocab_noun",
+                            "id": "574765489995169",
+                            "answers": [
+                                {
+                                    "text": "粘贴下载应用的二维码",
+                                    "answer_start": 26
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "粘贴下载应用的二维码的下一个子功能或任务是什么？",
+                            "type": "vocab_noun",
+                            "id": "504806369543403",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "向游客提供适合的信息需要判断是否准备景物信息。",
+                    "qas": [
+                        {
+                            "question": "这是什么功能的描述？",
+                            "type": "vocab_noun",
+                            "id": "521136208276306",
+                            "answers": [
+                                {
+                                    "text": "向游客提供适合的信息",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "向游客提供适合的信息的子功能或任务是什么？",
+                            "type": "vocab_noun",
+                            "id": "484293362932155",
+                            "answers": [
+                                {
+                                    "text": "准备景物信息",
+                                    "answer_start": 16
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "准备景物信息的下一个子功能或任务是什么？",
+                            "type": "vocab_noun",
+                            "id": "776519225818080",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "准备景物信息需要判断是否准备景物的详细信息或者准备景物的简短信息。",
+                    "qas": [
+                        {
+                            "question": "这是什么功能的描述",
+                            "type": "vocab_noun",
+                            "id": "749677885582984",
+                            "answers": [
+                                {
+                                    "text": "准备景物信息",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "准备景物信息需要判断是否准备景物的详细信息或者准备景物的简短信息。准备景物信息的子功能或任务是什么",
+                    "qas": [
+                        {
+                            "question": "准备景物的详细信息",
+                            "type": "vocab_noun",
+                            "id": "484406632692852",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "准备景物信息需要判断是否准备景物的详细信息或者准备景物的简短信息。准备景物的详细信息的下一个子功能或任务是什么",
+                    "qas": [
+                        {
+                            "question": "准备景物的简短信息",
+                            "type": "vocab_noun",
+                            "id": "460237882471283",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "准备景物信息需要判断是否准备景物的详细信息或者准备景物的简短信息。",
+                    "qas": [
+                        {
+                            "question": "准备景物的简短信息的下一个子功能或任务是什么",
+                            "type": "vocab_noun",
+                            "id": "226015628583136",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "帮助游客需要包括游客遵循景点的规则并且在满足游客对某个景点感兴趣的前提下游客得到某处景物的介绍。",
+                    "qas": [
+                        {
+                            "question": "这是什么功能的描述？",
+                            "type": "vocab_noun",
+                            "id": "321350521801711",
+                            "answers": [
+                                {
+                                    "text": "帮助游客",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "帮助游客的子功能或任务是什么？",
+                            "type": "vocab_noun",
+                            "id": "621787758754969",
+                            "answers": [
+                                {
+                                    "text": "游客遵循景点的规则",
+                                    "answer_start": 8
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "游客遵循景点的规则的下一个子功能或任务是什么？",
+                            "type": "vocab_noun",
+                            "id": "204405238593710",
+                            "answers": [
+                                {
+                                    "text": "游客得到某处景物的介绍",
+                                    "answer_start": 36
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "游客得到某处景物的介绍的下一个子功能或任务是什么？",
+                            "type": "vocab_noun",
+                            "id": "270282729928487",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "游客遵守景点规则包括游客在规定时间内进入景点并且判断是否在满足游客未登记的前提下通知游客登记。",
+                    "qas": [
+                        {
+                            "question": "这是什么功能的描述？",
+                            "type": "vocab_noun",
+                            "id": "920925701367207",
+                            "answers": [
+                                {
+                                    "text": "游客遵守景点规则",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "游客遵守景点规则的子功能或任务是什么？",
+                            "type": "vocab_noun",
+                            "id": "26675944998255",
+                            "answers": [
+                                {
+                                    "text": "游客在规定时间内进入景点",
+                                    "answer_start": 10
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "游客在规定时间内进入景点的下一个子功能或任务是什么？",
+                            "type": "vocab_noun",
+                            "id": "271153684018934",
+                            "answers": [
+                                {
+                                    "text": "通知游客登记",
+                                    "answer_start": 40
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "通知游客登记的下一个子功能或任务是什么？",
+                            "type": "vocab_noun",
+                            "id": "561792592370277",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "游客在规定时间内进入景点需要判断在满足C2的前提下是否在景点关闭前通知游客。",
+                    "qas": [
+                        {
+                            "question": "这是什么功能的描述？",
+                            "type": "vocab_noun",
+                            "id": "638312410471732",
+                            "answers": [
+                                {
+                                    "text": "游客在规定时间内进入景点",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "游客在规定时间内进入景点的子功能或任务是什么？",
+                            "type": "vocab_noun",
+                            "id": "878041670360588",
+                            "answers": [
+                                {
+                                    "text": "在景点关闭前通知游客",
+                                    "answer_start": 27
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "在景点关闭前通知游客的下一个子功能或任务是什么？",
+                            "type": "vocab_noun",
+                            "id": "736458788126299",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "在景点关闭前通知游客包括判断在满足游客为进入景点的前提下是否通知游客不许进入景点并且判断在满足游客已进入景点的前提下是否通知游客该离开了。",
+                    "qas": [
+                        {
+                            "question": "这是什么功能的描述？",
+                            "type": "vocab_noun",
+                            "id": "634594392192127",
+                            "answers": [
+                                {
+                                    "text": "在景点关闭前通知游客",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "在景点关闭前通知游客的子功能或任务是什么？",
+                            "type": "vocab_noun",
+                            "id": "413815156126488",
+                            "answers": [
+                                {
+                                    "text": "通知游客不许进入景点",
+                                    "answer_start": 30
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "通知游客不许进入景点的下一个子功能或任务是什么？",
+                            "type": "vocab_noun",
+                            "id": "122020843164837",
+                            "answers": [
+                                {
+                                    "text": "通知游客该离开了",
+                                    "answer_start": 60
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "通知游客该离开了的下一个子功能或任务是什么？",
+                            "type": "vocab_noun",
+                            "id": "514024012704292",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "游客得到某处景物的介绍需要满足在C4条件下游客通过电子向导获得景物介绍或者在满足C5条件下游客通过手机应用获得景物介绍或者在满足C6前提下游客通过导游获得景物介绍3种情况中的至少一种。",
+                    "qas": [
+                        {
+                            "question": "这是什么功能的描述？",
+                            "type": "vocab_noun",
+                            "id": "720659994856245",
+                            "answers": [
+                                {
+                                    "text": "游客得到某处景物的介绍",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "游客得到某处景物的介绍的子功能或任务是什么？",
+                            "type": "vocab_noun",
+                            "id": "916606773189679",
+                            "answers": [
+                                {
+                                    "text": "游客通过电子向导获得景物介绍",
+                                    "answer_start": 21
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "游客通过电子向导获得景物介绍的下一个子功能或任务是什么？",
+                            "type": "vocab_noun",
+                            "id": "747744233946247",
+                            "answers": [
+                                {
+                                    "text": "游客通过手机应用获得景物介绍",
+                                    "answer_start": 45
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "游客通过手机应用获得景物介绍的下一个子功能或任务是什么？",
+                            "type": "vocab_noun",
+                            "id": "692607327348726",
+                            "answers": [
+                                {
+                                    "text": "游客通过导游获得景物介绍",
+                                    "answer_start": 69
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "游客通过导游获得景物介绍的下一个子功能或任务是什么？",
+                            "type": "vocab_noun",
+                            "id": "545028548244396",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "游客通过电子向导获得景物介绍需要满足用户到达电子向导处并且游客知道如何使用电子向导。",
+                    "qas": [
+                        {
+                            "question": "这是什么功能的描述？游客通过电子向导获得景物介绍",
+                            "type": "vocab_noun",
+                            "id": "277234727734250",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "游客通过电子向导获得景物介绍的子功能或任务是什么？到达电子向导处",
+                            "type": "vocab_noun",
+                            "id": "668878190425372",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "到达电子向导处的下一个子功能或任务是什么？游客知道如何使用电子向导",
+                            "type": "vocab_noun",
+                            "id": "717780822452796",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "游客知道如何使用电子向导的下一个子功能或任务是什么？",
+                            "type": "vocab_noun",
+                            "id": "242171186125925",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "游客通过手机应用获得景物介绍需要满足游客手机中有向导应用而且向游客提供合适的信息。",
+                    "qas": [
+                        {
+                            "question": "这是什么功能的描述？",
+                            "type": "vocab_noun",
+                            "id": "349573974906268",
+                            "answers": [
+                                {
+                                    "text": "游客通过手机应用获得景物介绍",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "游客通过手机应用获得景物介绍的子功能或任务是什么？",
+                            "type": "vocab_noun",
+                            "id": "872971401409691",
+                            "answers": [
+                                {
+                                    "text": "游客手机中有向导应用",
+                                    "answer_start": 18
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "游客手机中有向导应用的下一个子功能或任务是什么？",
+                            "type": "vocab_noun",
+                            "id": "602841713580558",
+                            "answers": [
+                                {
+                                    "text": "向游客提供合适的信息",
+                                    "answer_start": 30
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "向游客提供合适的信息的下一个子功能或任务是什么？",
+                            "type": "vocab_noun",
+                            "id": "86281938810924",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "游客到达电子向导处需要判断在满足C9的前提下是否有地标指引游客到电子向导处。",
+                    "qas": [
+                        {
+                            "question": "这是什么功能的描述？",
+                            "type": "vocab_noun",
+                            "id": "487105891049522",
+                            "answers": [
+                                {
+                                    "text": "游客到达电子向导处",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "游客到达电子向导处的子功能或任务是什么？",
+                            "type": "vocab_noun",
+                            "id": "547893208184409",
+                            "answers": [
+                                {
+                                    "text": "有地标指引游客到电子向导处",
+                                    "answer_start": 24
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "有地标指引游客到电子向导处的下一个子功能或任务是什么？",
+                            "type": "vocab_noun",
+                            "id": "517534943613159",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "游客知道如何使用电子向导需要判断在C15前提下是否展示电子向导使用demo。",
+                    "qas": [
+                        {
+                            "question": "这是什么功能的描述？",
+                            "type": "vocab_noun",
+                            "id": "908820263704122",
+                            "answers": [
+                                {
+                                    "text": "游客知道如何使用电子向导",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "游客知道如何使用电子向导的子功能或任务是什么？",
+                            "type": "vocab_noun",
+                            "id": "645553878035720",
+                            "answers": [
+                                {
+                                    "text": "展示电子向导使用demo",
+                                    "answer_start": 25
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "展示电子向导使用demo的下一个子功能或任务是什么？",
+                            "type": "vocab_noun",
+                            "id": "235341240083981",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "游客手机中有向导应用需要判断在满足C16的前提下是否粘贴下载应用的二维码。",
+                    "qas": [
+                        {
+                            "question": "这是什么功能的描述？",
+                            "type": "vocab_noun",
+                            "id": "928285554948244",
+                            "answers": [
+                                {
+                                    "text": "游客手机中有向导应用",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "游客手机中有向导应用的子功能或任务是什么？",
+                            "type": "vocab_noun",
+                            "id": "393037826297261",
+                            "answers": [
+                                {
+                                    "text": "粘贴下载应用的二维码",
+                                    "answer_start": 26
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "粘贴下载应用的二维码的下一个子功能或任务是什么？",
+                            "type": "vocab_noun",
+                            "id": "568871229223519",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "向游客提供适合的信息需要判断是否准备景物信息。",
+                    "qas": [
+                        {
+                            "question": "这是什么功能的描述？",
+                            "type": "vocab_noun",
+                            "id": "125723367197810",
+                            "answers": [
+                                {
+                                    "text": "向游客提供适合的信息",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "向游客提供适合的信息的子功能或任务是什么？",
+                            "type": "vocab_noun",
+                            "id": "349281039131368",
+                            "answers": [
+                                {
+                                    "text": "准备景物信息",
+                                    "answer_start": 16
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "准备景物信息的下一个子功能或任务是什么？",
+                            "type": "vocab_noun",
+                            "id": "131554718090661",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "准备景物信息需要判断是否准备景物的详细信息或者准备景物的简短信息。",
+                    "qas": [
+                        {
+                            "question": "这是什么功能的描述",
+                            "type": "vocab_noun",
+                            "id": "200047315018226",
+                            "answers": [
+                                {
+                                    "text": "准备景物信息",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "准备景物信息需要判断是否准备景物的详细信息或者准备景物的简短信息。准备景物信息的子功能或任务是什么",
+                    "qas": [
+                        {
+                            "question": "准备景物的详细信息",
+                            "type": "vocab_noun",
+                            "id": "624658111512467",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "准备景物信息需要判断是否准备景物的详细信息或者准备景物的简短信息。准备景物的详细信息的下一个子功能或任务是什么",
+                    "qas": [
+                        {
+                            "question": "准备景物的简短信息",
+                            "type": "vocab_noun",
+                            "id": "280473700513702",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "准备景物信息需要判断是否准备景物的详细信息或者准备景物的简短信息。",
+                    "qas": [
+                        {
+                            "question": "准备景物的简短信息的下一个子功能或任务是什么",
+                            "type": "vocab_noun",
+                            "id": "721454002124576",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "帮助游客需要包括游客遵循景点的规则并且在满足游客对某个景点感兴趣的前提下游客得到某处景物的介绍。",
+                    "qas": [
+                        {
+                            "question": "这是什么功能的描述？",
+                            "type": "vocab_noun",
+                            "id": "20442443668044",
+                            "answers": [
+                                {
+                                    "text": "帮助游客",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "帮助游客的子功能或任务是什么？",
+                            "type": "vocab_noun",
+                            "id": "243831628797976",
+                            "answers": [
+                                {
+                                    "text": "游客遵循景点的规则",
+                                    "answer_start": 8
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "游客遵循景点的规则的下一个子功能或任务是什么？",
+                            "type": "vocab_noun",
+                            "id": "625045310167752",
+                            "answers": [
+                                {
+                                    "text": "游客得到某处景物的介绍",
+                                    "answer_start": 36
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "游客得到某处景物的介绍的下一个子功能或任务是什么？",
+                            "type": "vocab_noun",
+                            "id": "717627062525454",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "游客遵守景点规则包括游客在规定时间内进入景点并且判断是否在满足游客未登记的前提下通知游客登记。",
+                    "qas": [
+                        {
+                            "question": "这是什么功能的描述？",
+                            "type": "vocab_noun",
+                            "id": "569107967230861",
+                            "answers": [
+                                {
+                                    "text": "游客遵守景点规则",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "游客遵守景点规则的子功能或任务是什么？",
+                            "type": "vocab_noun",
+                            "id": "547003377271749",
+                            "answers": [
+                                {
+                                    "text": "游客在规定时间内进入景点",
+                                    "answer_start": 10
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "游客在规定时间内进入景点的下一个子功能或任务是什么？",
+                            "type": "vocab_noun",
+                            "id": "652727947856014",
+                            "answers": [
+                                {
+                                    "text": "通知游客登记",
+                                    "answer_start": 40
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "通知游客登记的下一个子功能或任务是什么？",
+                            "type": "vocab_noun",
+                            "id": "325120949946034",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "游客在规定时间内进入景点需要判断在满足C2的前提下是否在景点关闭前通知游客。",
+                    "qas": [
+                        {
+                            "question": "这是什么功能的描述？",
+                            "type": "vocab_noun",
+                            "id": "616225786917992",
+                            "answers": [
+                                {
+                                    "text": "游客在规定时间内进入景点",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "游客在规定时间内进入景点的子功能或任务是什么？",
+                            "type": "vocab_noun",
+                            "id": "469492236725510",
+                            "answers": [
+                                {
+                                    "text": "在景点关闭前通知游客",
+                                    "answer_start": 27
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "在景点关闭前通知游客的下一个子功能或任务是什么？",
+                            "type": "vocab_noun",
+                            "id": "963734263793177",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "在景点关闭前通知游客包括判断在满足游客为进入景点的前提下是否通知游客不许进入景点并且判断在满足游客已进入景点的前提下是否通知游客该离开了。",
+                    "qas": [
+                        {
+                            "question": "这是什么功能的描述？",
+                            "type": "vocab_noun",
+                            "id": "694650244904865",
+                            "answers": [
+                                {
+                                    "text": "在景点关闭前通知游客",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "在景点关闭前通知游客的子功能或任务是什么？",
+                            "type": "vocab_noun",
+                            "id": "894721722450482",
+                            "answers": [
+                                {
+                                    "text": "通知游客不许进入景点",
+                                    "answer_start": 30
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "通知游客不许进入景点的下一个子功能或任务是什么？",
+                            "type": "vocab_noun",
+                            "id": "251273943116523",
+                            "answers": [
+                                {
+                                    "text": "通知游客该离开了",
+                                    "answer_start": 60
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "通知游客该离开了的下一个子功能或任务是什么？",
+                            "type": "vocab_noun",
+                            "id": "776220934124737",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "游客得到某处景物的介绍需要满足在C4条件下游客通过电子向导获得景物介绍或者在满足C5条件下游客通过手机应用获得景物介绍或者在满足C6前提下游客通过导游获得景物介绍3种情况中的至少一种。",
+                    "qas": [
+                        {
+                            "question": "这是什么功能的描述？",
+                            "type": "vocab_noun",
+                            "id": "429866325434236",
+                            "answers": [
+                                {
+                                    "text": "游客得到某处景物的介绍",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "游客得到某处景物的介绍的子功能或任务是什么？",
+                            "type": "vocab_noun",
+                            "id": "326800226677778",
+                            "answers": [
+                                {
+                                    "text": "游客通过电子向导获得景物介绍",
+                                    "answer_start": 21
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "游客通过电子向导获得景物介绍的下一个子功能或任务是什么？",
+                            "type": "vocab_noun",
+                            "id": "904952687742274",
+                            "answers": [
+                                {
+                                    "text": "游客通过手机应用获得景物介绍",
+                                    "answer_start": 45
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "游客通过手机应用获得景物介绍的下一个子功能或任务是什么？",
+                            "type": "vocab_noun",
+                            "id": "757164633581275",
+                            "answers": [
+                                {
+                                    "text": "游客通过导游获得景物介绍",
+                                    "answer_start": 69
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "游客通过导游获得景物介绍的下一个子功能或任务是什么？",
+                            "type": "vocab_noun",
+                            "id": "394753481983048",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "游客通过电子向导获得景物介绍需要满足用户到达电子向导处并且游客知道如何使用电子向导。",
+                    "qas": [
+                        {
+                            "question": "这是什么功能的描述？游客通过电子向导获得景物介绍",
+                            "type": "vocab_noun",
+                            "id": "98405053132593",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "游客通过电子向导获得景物介绍的子功能或任务是什么？到达电子向导处",
+                            "type": "vocab_noun",
+                            "id": "454946654053774",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "到达电子向导处的下一个子功能或任务是什么？游客知道如何使用电子向导",
+                            "type": "vocab_noun",
+                            "id": "556513501762687",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "游客知道如何使用电子向导的下一个子功能或任务是什么？",
+                            "type": "vocab_noun",
+                            "id": "146064670556529",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "游客通过手机应用获得景物介绍需要满足游客手机中有向导应用而且向游客提供合适的信息。",
+                    "qas": [
+                        {
+                            "question": "这是什么功能的描述？",
+                            "type": "vocab_noun",
+                            "id": "51750617103655",
+                            "answers": [
+                                {
+                                    "text": "游客通过手机应用获得景物介绍",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "游客通过手机应用获得景物介绍的子功能或任务是什么？",
+                            "type": "vocab_noun",
+                            "id": "684128179259214",
+                            "answers": [
+                                {
+                                    "text": "游客手机中有向导应用",
+                                    "answer_start": 18
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "游客手机中有向导应用的下一个子功能或任务是什么？",
+                            "type": "vocab_noun",
+                            "id": "654776527834806",
+                            "answers": [
+                                {
+                                    "text": "向游客提供合适的信息",
+                                    "answer_start": 30
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "向游客提供合适的信息的下一个子功能或任务是什么？",
+                            "type": "vocab_noun",
+                            "id": "186083357943867",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "游客到达电子向导处需要判断在满足C9的前提下是否有地标指引游客到电子向导处。",
+                    "qas": [
+                        {
+                            "question": "这是什么功能的描述？",
+                            "type": "vocab_noun",
+                            "id": "916248860393950",
+                            "answers": [
+                                {
+                                    "text": "游客到达电子向导处",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "游客到达电子向导处的子功能或任务是什么？",
+                            "type": "vocab_noun",
+                            "id": "745814302149286",
+                            "answers": [
+                                {
+                                    "text": "有地标指引游客到电子向导处",
+                                    "answer_start": 24
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "有地标指引游客到电子向导处的下一个子功能或任务是什么？",
+                            "type": "vocab_noun",
+                            "id": "345831029904912",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "游客知道如何使用电子向导需要判断在C15前提下是否展示电子向导使用demo。",
+                    "qas": [
+                        {
+                            "question": "这是什么功能的描述？",
+                            "type": "vocab_noun",
+                            "id": "604085425061527",
+                            "answers": [
+                                {
+                                    "text": "游客知道如何使用电子向导",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "游客知道如何使用电子向导的子功能或任务是什么？",
+                            "type": "vocab_noun",
+                            "id": "973150308054697",
+                            "answers": [
+                                {
+                                    "text": "展示电子向导使用demo",
+                                    "answer_start": 25
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "展示电子向导使用demo的下一个子功能或任务是什么？",
+                            "type": "vocab_noun",
+                            "id": "289027527736499",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "游客手机中有向导应用需要判断在满足C16的前提下是否粘贴下载应用的二维码。",
+                    "qas": [
+                        {
+                            "question": "这是什么功能的描述？",
+                            "type": "vocab_noun",
+                            "id": "402297216696850",
+                            "answers": [
+                                {
+                                    "text": "游客手机中有向导应用",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "游客手机中有向导应用的子功能或任务是什么？",
+                            "type": "vocab_noun",
+                            "id": "891685027400684",
+                            "answers": [
+                                {
+                                    "text": "粘贴下载应用的二维码",
+                                    "answer_start": 26
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "粘贴下载应用的二维码的下一个子功能或任务是什么？",
+                            "type": "vocab_noun",
+                            "id": "922951157539054",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "向游客提供适合的信息需要判断是否准备景物信息。",
+                    "qas": [
+                        {
+                            "question": "这是什么功能的描述？",
+                            "type": "vocab_noun",
+                            "id": "137185735190147",
+                            "answers": [
+                                {
+                                    "text": "向游客提供适合的信息",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "向游客提供适合的信息的子功能或任务是什么？",
+                            "type": "vocab_noun",
+                            "id": "932210272271881",
+                            "answers": [
+                                {
+                                    "text": "准备景物信息",
+                                    "answer_start": 16
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "准备景物信息的下一个子功能或任务是什么？",
+                            "type": "vocab_noun",
+                            "id": "106888716607061",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "准备景物信息需要判断是否准备景物的详细信息或者准备景物的简短信息。",
+                    "qas": [
+                        {
+                            "question": "这是什么功能的描述",
+                            "type": "vocab_noun",
+                            "id": "451777112206549",
+                            "answers": [
+                                {
+                                    "text": "准备景物信息",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "准备景物信息需要判断是否准备景物的详细信息或者准备景物的简短信息。准备景物信息的子功能或任务是什么",
+                    "qas": [
+                        {
+                            "question": "准备景物的详细信息",
+                            "type": "vocab_noun",
+                            "id": "252996978676385",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "准备景物信息需要判断是否准备景物的详细信息或者准备景物的简短信息。准备景物的详细信息的下一个子功能或任务是什么",
+                    "qas": [
+                        {
+                            "question": "准备景物的简短信息",
+                            "type": "vocab_noun",
+                            "id": "914665590136558",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "准备景物信息需要判断是否准备景物的详细信息或者准备景物的简短信息。",
+                    "qas": [
+                        {
+                            "question": "准备景物的简短信息的下一个子功能或任务是什么",
+                            "type": "vocab_noun",
+                            "id": "280984342816958",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "帮助游客需要包括游客遵循景点的规则并且在满足游客对某个景点感兴趣的前提下游客得到某处景物的介绍。",
+                    "qas": [
+                        {
+                            "question": "这是什么功能的描述？",
+                            "type": "vocab_noun",
+                            "id": "662954826101094",
+                            "answers": [
+                                {
+                                    "text": "帮助游客",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "帮助游客的子功能或任务是什么？",
+                            "type": "vocab_noun",
+                            "id": "877763836110777",
+                            "answers": [
+                                {
+                                    "text": "游客遵循景点的规则",
+                                    "answer_start": 8
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "游客遵循景点的规则的下一个子功能或任务是什么？",
+                            "type": "vocab_noun",
+                            "id": "28353077073952",
+                            "answers": [
+                                {
+                                    "text": "游客得到某处景物的介绍",
+                                    "answer_start": 36
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "游客得到某处景物的介绍的下一个子功能或任务是什么？",
+                            "type": "vocab_noun",
+                            "id": "194675262505122",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "游客遵守景点规则包括游客在规定时间内进入景点并且判断是否在满足游客未登记的前提下通知游客登记。",
+                    "qas": [
+                        {
+                            "question": "这是什么功能的描述？",
+                            "type": "vocab_noun",
+                            "id": "477059439727537",
+                            "answers": [
+                                {
+                                    "text": "游客遵守景点规则",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "游客遵守景点规则的子功能或任务是什么？",
+                            "type": "vocab_noun",
+                            "id": "238603845658720",
+                            "answers": [
+                                {
+                                    "text": "游客在规定时间内进入景点",
+                                    "answer_start": 10
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "游客在规定时间内进入景点的下一个子功能或任务是什么？",
+                            "type": "vocab_noun",
+                            "id": "77161199325806",
+                            "answers": [
+                                {
+                                    "text": "通知游客登记",
+                                    "answer_start": 40
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "通知游客登记的下一个子功能或任务是什么？",
+                            "type": "vocab_noun",
+                            "id": "268507696419311",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "游客在规定时间内进入景点需要判断在满足C2的前提下是否在景点关闭前通知游客。",
+                    "qas": [
+                        {
+                            "question": "这是什么功能的描述？",
+                            "type": "vocab_noun",
+                            "id": "830574793603586",
+                            "answers": [
+                                {
+                                    "text": "游客在规定时间内进入景点",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "游客在规定时间内进入景点的子功能或任务是什么？",
+                            "type": "vocab_noun",
+                            "id": "11763971457475",
+                            "answers": [
+                                {
+                                    "text": "在景点关闭前通知游客",
+                                    "answer_start": 27
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "在景点关闭前通知游客的下一个子功能或任务是什么？",
+                            "type": "vocab_noun",
+                            "id": "789724792619142",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "在景点关闭前通知游客包括判断在满足游客为进入景点的前提下是否通知游客不许进入景点并且判断在满足游客已进入景点的前提下是否通知游客该离开了。",
+                    "qas": [
+                        {
+                            "question": "这是什么功能的描述？",
+                            "type": "vocab_noun",
+                            "id": "554635541317667",
+                            "answers": [
+                                {
+                                    "text": "在景点关闭前通知游客",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "在景点关闭前通知游客的子功能或任务是什么？",
+                            "type": "vocab_noun",
+                            "id": "246069571517899",
+                            "answers": [
+                                {
+                                    "text": "通知游客不许进入景点",
+                                    "answer_start": 30
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "通知游客不许进入景点的下一个子功能或任务是什么？",
+                            "type": "vocab_noun",
+                            "id": "19028390572267",
+                            "answers": [
+                                {
+                                    "text": "通知游客该离开了",
+                                    "answer_start": 60
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "通知游客该离开了的下一个子功能或任务是什么？",
+                            "type": "vocab_noun",
+                            "id": "309855472694615",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "游客得到某处景物的介绍需要满足在C4条件下游客通过电子向导获得景物介绍或者在满足C5条件下游客通过手机应用获得景物介绍或者在满足C6前提下游客通过导游获得景物介绍3种情况中的至少一种。",
+                    "qas": [
+                        {
+                            "question": "这是什么功能的描述？",
+                            "type": "vocab_noun",
+                            "id": "437202390269682",
+                            "answers": [
+                                {
+                                    "text": "游客得到某处景物的介绍",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "游客得到某处景物的介绍的子功能或任务是什么？",
+                            "type": "vocab_noun",
+                            "id": "998440463412585",
+                            "answers": [
+                                {
+                                    "text": "游客通过电子向导获得景物介绍",
+                                    "answer_start": 21
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "游客通过电子向导获得景物介绍的下一个子功能或任务是什么？",
+                            "type": "vocab_noun",
+                            "id": "596358233344144",
+                            "answers": [
+                                {
+                                    "text": "游客通过手机应用获得景物介绍",
+                                    "answer_start": 45
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "游客通过手机应用获得景物介绍的下一个子功能或任务是什么？",
+                            "type": "vocab_noun",
+                            "id": "717144097915875",
+                            "answers": [
+                                {
+                                    "text": "游客通过导游获得景物介绍",
+                                    "answer_start": 69
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "游客通过导游获得景物介绍的下一个子功能或任务是什么？",
+                            "type": "vocab_noun",
+                            "id": "287615631006759",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "游客通过电子向导获得景物介绍需要满足用户到达电子向导处并且游客知道如何使用电子向导。",
+                    "qas": [
+                        {
+                            "question": "这是什么功能的描述？游客通过电子向导获得景物介绍",
+                            "type": "vocab_noun",
+                            "id": "901791476590063",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "游客通过电子向导获得景物介绍的子功能或任务是什么？到达电子向导处",
+                            "type": "vocab_noun",
+                            "id": "308981125746239",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "到达电子向导处的下一个子功能或任务是什么？游客知道如何使用电子向导",
+                            "type": "vocab_noun",
+                            "id": "796632029239150",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "游客知道如何使用电子向导的下一个子功能或任务是什么？",
+                            "type": "vocab_noun",
+                            "id": "236397108838811",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "游客通过手机应用获得景物介绍需要满足游客手机中有向导应用而且向游客提供合适的信息。",
+                    "qas": [
+                        {
+                            "question": "这是什么功能的描述？",
+                            "type": "vocab_noun",
+                            "id": "747527080421648",
+                            "answers": [
+                                {
+                                    "text": "游客通过手机应用获得景物介绍",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "游客通过手机应用获得景物介绍的子功能或任务是什么？",
+                            "type": "vocab_noun",
+                            "id": "266790371719914",
+                            "answers": [
+                                {
+                                    "text": "游客手机中有向导应用",
+                                    "answer_start": 18
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "游客手机中有向导应用的下一个子功能或任务是什么？",
+                            "type": "vocab_noun",
+                            "id": "916070282291915",
+                            "answers": [
+                                {
+                                    "text": "向游客提供合适的信息",
+                                    "answer_start": 30
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "向游客提供合适的信息的下一个子功能或任务是什么？",
+                            "type": "vocab_noun",
+                            "id": "762901959007034",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "游客到达电子向导处需要判断在满足C9的前提下是否有地标指引游客到电子向导处。",
+                    "qas": [
+                        {
+                            "question": "这是什么功能的描述？",
+                            "type": "vocab_noun",
+                            "id": "960512843472999",
+                            "answers": [
+                                {
+                                    "text": "游客到达电子向导处",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "游客到达电子向导处的子功能或任务是什么？",
+                            "type": "vocab_noun",
+                            "id": "238350268599586",
+                            "answers": [
+                                {
+                                    "text": "有地标指引游客到电子向导处",
+                                    "answer_start": 24
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "有地标指引游客到电子向导处的下一个子功能或任务是什么？",
+                            "type": "vocab_noun",
+                            "id": "758987226411059",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "游客知道如何使用电子向导需要判断在C15前提下是否展示电子向导使用demo。",
+                    "qas": [
+                        {
+                            "question": "这是什么功能的描述？",
+                            "type": "vocab_noun",
+                            "id": "850395208867212",
+                            "answers": [
+                                {
+                                    "text": "游客知道如何使用电子向导",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "游客知道如何使用电子向导的子功能或任务是什么？",
+                            "type": "vocab_noun",
+                            "id": "91005357000047",
+                            "answers": [
+                                {
+                                    "text": "展示电子向导使用demo",
+                                    "answer_start": 25
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "展示电子向导使用demo的下一个子功能或任务是什么？",
+                            "type": "vocab_noun",
+                            "id": "581896181297272",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "游客手机中有向导应用需要判断在满足C16的前提下是否粘贴下载应用的二维码。",
+                    "qas": [
+                        {
+                            "question": "这是什么功能的描述？",
+                            "type": "vocab_noun",
+                            "id": "768820970753288",
+                            "answers": [
+                                {
+                                    "text": "游客手机中有向导应用",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "游客手机中有向导应用的子功能或任务是什么？",
+                            "type": "vocab_noun",
+                            "id": "950043063151547",
+                            "answers": [
+                                {
+                                    "text": "粘贴下载应用的二维码",
+                                    "answer_start": 26
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "粘贴下载应用的二维码的下一个子功能或任务是什么？",
+                            "type": "vocab_noun",
+                            "id": "140873401657003",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "向游客提供适合的信息需要判断是否准备景物信息。",
+                    "qas": [
+                        {
+                            "question": "这是什么功能的描述？",
+                            "type": "vocab_noun",
+                            "id": "381491122139736",
+                            "answers": [
+                                {
+                                    "text": "向游客提供适合的信息",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "向游客提供适合的信息的子功能或任务是什么？",
+                            "type": "vocab_noun",
+                            "id": "727770646329130",
+                            "answers": [
+                                {
+                                    "text": "准备景物信息",
+                                    "answer_start": 16
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "准备景物信息的下一个子功能或任务是什么？",
+                            "type": "vocab_noun",
+                            "id": "875272214133813",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "准备景物信息需要判断是否准备景物的详细信息或者准备景物的简短信息。",
+                    "qas": [
+                        {
+                            "question": "这是什么功能的描述",
+                            "type": "vocab_noun",
+                            "id": "986753817788823",
+                            "answers": [
+                                {
+                                    "text": "准备景物信息",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "准备景物信息需要判断是否准备景物的详细信息或者准备景物的简短信息。准备景物信息的子功能或任务是什么",
+                    "qas": [
+                        {
+                            "question": "准备景物的详细信息",
+                            "type": "vocab_noun",
+                            "id": "131928333938397",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "准备景物信息需要判断是否准备景物的详细信息或者准备景物的简短信息。准备景物的详细信息的下一个子功能或任务是什么",
+                    "qas": [
+                        {
+                            "question": "准备景物的简短信息",
+                            "type": "vocab_noun",
+                            "id": "167508073674705",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "准备景物信息需要判断是否准备景物的详细信息或者准备景物的简短信息。",
+                    "qas": [
+                        {
+                            "question": "准备景物的简短信息的下一个子功能或任务是什么",
+                            "type": "vocab_noun",
+                            "id": "721030249234436",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "帮助游客需要包括游客遵循景点的规则并且在满足游客对某个景点感兴趣的前提下游客得到某处景物的介绍。",
+                    "qas": [
+                        {
+                            "question": "这是什么功能的描述？",
+                            "type": "vocab_noun",
+                            "id": "673016578725613",
+                            "answers": [
+                                {
+                                    "text": "帮助游客",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "帮助游客的子功能或任务是什么？",
+                            "type": "vocab_noun",
+                            "id": "366689348521814",
+                            "answers": [
+                                {
+                                    "text": "游客遵循景点的规则",
+                                    "answer_start": 8
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "游客遵循景点的规则的下一个子功能或任务是什么？",
+                            "type": "vocab_noun",
+                            "id": "60794112534593",
+                            "answers": [
+                                {
+                                    "text": "游客得到某处景物的介绍",
+                                    "answer_start": 36
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "游客得到某处景物的介绍的下一个子功能或任务是什么？",
+                            "type": "vocab_noun",
+                            "id": "554500144470669",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "游客遵守景点规则包括游客在规定时间内进入景点并且判断是否在满足游客未登记的前提下通知游客登记。",
+                    "qas": [
+                        {
+                            "question": "这是什么功能的描述？",
+                            "type": "vocab_noun",
+                            "id": "794059016034313",
+                            "answers": [
+                                {
+                                    "text": "游客遵守景点规则",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "游客遵守景点规则的子功能或任务是什么？",
+                            "type": "vocab_noun",
+                            "id": "834473092156850",
+                            "answers": [
+                                {
+                                    "text": "游客在规定时间内进入景点",
+                                    "answer_start": 10
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "游客在规定时间内进入景点的下一个子功能或任务是什么？",
+                            "type": "vocab_noun",
+                            "id": "456700473217873",
+                            "answers": [
+                                {
+                                    "text": "通知游客登记",
+                                    "answer_start": 40
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "通知游客登记的下一个子功能或任务是什么？",
+                            "type": "vocab_noun",
+                            "id": "675004762586500",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "游客在规定时间内进入景点需要判断在满足C2的前提下是否在景点关闭前通知游客。",
+                    "qas": [
+                        {
+                            "question": "这是什么功能的描述？",
+                            "type": "vocab_noun",
+                            "id": "886694096443841",
+                            "answers": [
+                                {
+                                    "text": "游客在规定时间内进入景点",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "游客在规定时间内进入景点的子功能或任务是什么？",
+                            "type": "vocab_noun",
+                            "id": "626714957258131",
+                            "answers": [
+                                {
+                                    "text": "在景点关闭前通知游客",
+                                    "answer_start": 27
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "在景点关闭前通知游客的下一个子功能或任务是什么？",
+                            "type": "vocab_noun",
+                            "id": "37450014536074",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "在景点关闭前通知游客包括判断在满足游客为进入景点的前提下是否通知游客不许进入景点并且判断在满足游客已进入景点的前提下是否通知游客该离开了。",
+                    "qas": [
+                        {
+                            "question": "这是什么功能的描述？",
+                            "type": "vocab_noun",
+                            "id": "387963854030093",
+                            "answers": [
+                                {
+                                    "text": "在景点关闭前通知游客",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "在景点关闭前通知游客的子功能或任务是什么？",
+                            "type": "vocab_noun",
+                            "id": "162167154639007",
+                            "answers": [
+                                {
+                                    "text": "通知游客不许进入景点",
+                                    "answer_start": 30
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "通知游客不许进入景点的下一个子功能或任务是什么？",
+                            "type": "vocab_noun",
+                            "id": "722558117243125",
+                            "answers": [
+                                {
+                                    "text": "通知游客该离开了",
+                                    "answer_start": 60
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "通知游客该离开了的下一个子功能或任务是什么？",
+                            "type": "vocab_noun",
+                            "id": "2660627880100",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "游客得到某处景物的介绍需要满足在C4条件下游客通过电子向导获得景物介绍或者在满足C5条件下游客通过手机应用获得景物介绍或者在满足C6前提下游客通过导游获得景物介绍3种情况中的至少一种。",
+                    "qas": [
+                        {
+                            "question": "这是什么功能的描述？",
+                            "type": "vocab_noun",
+                            "id": "501912852013696",
+                            "answers": [
+                                {
+                                    "text": "游客得到某处景物的介绍",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "游客得到某处景物的介绍的子功能或任务是什么？",
+                            "type": "vocab_noun",
+                            "id": "288669068572501",
+                            "answers": [
+                                {
+                                    "text": "游客通过电子向导获得景物介绍",
+                                    "answer_start": 21
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "游客通过电子向导获得景物介绍的下一个子功能或任务是什么？",
+                            "type": "vocab_noun",
+                            "id": "366965173110331",
+                            "answers": [
+                                {
+                                    "text": "游客通过手机应用获得景物介绍",
+                                    "answer_start": 45
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "游客通过手机应用获得景物介绍的下一个子功能或任务是什么？",
+                            "type": "vocab_noun",
+                            "id": "510495808639754",
+                            "answers": [
+                                {
+                                    "text": "游客通过导游获得景物介绍",
+                                    "answer_start": 69
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "游客通过导游获得景物介绍的下一个子功能或任务是什么？",
+                            "type": "vocab_noun",
+                            "id": "805486678263710",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "游客通过电子向导获得景物介绍需要满足用户到达电子向导处并且游客知道如何使用电子向导。",
+                    "qas": [
+                        {
+                            "question": "这是什么功能的描述？游客通过电子向导获得景物介绍",
+                            "type": "vocab_noun",
+                            "id": "438615673432988",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "游客通过电子向导获得景物介绍的子功能或任务是什么？到达电子向导处",
+                            "type": "vocab_noun",
+                            "id": "86739794553383",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "到达电子向导处的下一个子功能或任务是什么？游客知道如何使用电子向导",
+                            "type": "vocab_noun",
+                            "id": "280848128300670",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "游客知道如何使用电子向导的下一个子功能或任务是什么？",
+                            "type": "vocab_noun",
+                            "id": "802811080106396",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "游客通过手机应用获得景物介绍需要满足游客手机中有向导应用而且向游客提供合适的信息。",
+                    "qas": [
+                        {
+                            "question": "这是什么功能的描述？",
+                            "type": "vocab_noun",
+                            "id": "797831490766181",
+                            "answers": [
+                                {
+                                    "text": "游客通过手机应用获得景物介绍",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "游客通过手机应用获得景物介绍的子功能或任务是什么？",
+                            "type": "vocab_noun",
+                            "id": "916121314629067",
+                            "answers": [
+                                {
+                                    "text": "游客手机中有向导应用",
+                                    "answer_start": 18
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "游客手机中有向导应用的下一个子功能或任务是什么？",
+                            "type": "vocab_noun",
+                            "id": "271683380687645",
+                            "answers": [
+                                {
+                                    "text": "向游客提供合适的信息",
+                                    "answer_start": 30
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "向游客提供合适的信息的下一个子功能或任务是什么？",
+                            "type": "vocab_noun",
+                            "id": "978950385169956",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "游客到达电子向导处需要判断在满足C9的前提下是否有地标指引游客到电子向导处。",
+                    "qas": [
+                        {
+                            "question": "这是什么功能的描述？",
+                            "type": "vocab_noun",
+                            "id": "91244630113530",
+                            "answers": [
+                                {
+                                    "text": "游客到达电子向导处",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "游客到达电子向导处的子功能或任务是什么？",
+                            "type": "vocab_noun",
+                            "id": "58807388409698",
+                            "answers": [
+                                {
+                                    "text": "有地标指引游客到电子向导处",
+                                    "answer_start": 24
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "有地标指引游客到电子向导处的下一个子功能或任务是什么？",
+                            "type": "vocab_noun",
+                            "id": "340623998151812",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "游客知道如何使用电子向导需要判断在C15前提下是否展示电子向导使用demo。",
+                    "qas": [
+                        {
+                            "question": "这是什么功能的描述？",
+                            "type": "vocab_noun",
+                            "id": "139910576082616",
+                            "answers": [
+                                {
+                                    "text": "游客知道如何使用电子向导",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "游客知道如何使用电子向导的子功能或任务是什么？",
+                            "type": "vocab_noun",
+                            "id": "393662472619100",
+                            "answers": [
+                                {
+                                    "text": "展示电子向导使用demo",
+                                    "answer_start": 25
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "展示电子向导使用demo的下一个子功能或任务是什么？",
+                            "type": "vocab_noun",
+                            "id": "882363534245373",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "游客手机中有向导应用需要判断在满足C16的前提下是否粘贴下载应用的二维码。",
+                    "qas": [
+                        {
+                            "question": "这是什么功能的描述？",
+                            "type": "vocab_noun",
+                            "id": "111639678046205",
+                            "answers": [
+                                {
+                                    "text": "游客手机中有向导应用",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "游客手机中有向导应用的子功能或任务是什么？",
+                            "type": "vocab_noun",
+                            "id": "495699099610814",
+                            "answers": [
+                                {
+                                    "text": "粘贴下载应用的二维码",
+                                    "answer_start": 26
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "粘贴下载应用的二维码的下一个子功能或任务是什么？",
+                            "type": "vocab_noun",
+                            "id": "10151659402020",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "向游客提供适合的信息需要判断是否准备景物信息。",
+                    "qas": [
+                        {
+                            "question": "这是什么功能的描述？",
+                            "type": "vocab_noun",
+                            "id": "298905127368578",
+                            "answers": [
+                                {
+                                    "text": "向游客提供适合的信息",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "向游客提供适合的信息的子功能或任务是什么？",
+                            "type": "vocab_noun",
+                            "id": "599230181805193",
+                            "answers": [
+                                {
+                                    "text": "准备景物信息",
+                                    "answer_start": 16
+                                }
+                            ],
+                            "is_impossible": true
+                        },
+                        {
+                            "question": "准备景物信息的下一个子功能或任务是什么？",
+                            "type": "vocab_noun",
+                            "id": "73891050809249",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "准备景物信息需要判断是否准备景物的详细信息或者准备景物的简短信息。",
+                    "qas": [
+                        {
+                            "question": "这是什么功能的描述",
+                            "type": "vocab_noun",
+                            "id": "475434445115320",
+                            "answers": [
+                                {
+                                    "text": "准备景物信息",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "准备景物信息需要判断是否准备景物的详细信息或者准备景物的简短信息。准备景物信息的子功能或任务是什么",
+                    "qas": [
+                        {
+                            "question": "准备景物的详细信息",
+                            "type": "vocab_noun",
+                            "id": "30121232806522",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "准备景物信息需要判断是否准备景物的详细信息或者准备景物的简短信息。准备景物的详细信息的下一个子功能或任务是什么",
+                    "qas": [
+                        {
+                            "question": "准备景物的简短信息",
+                            "type": "vocab_noun",
+                            "id": "618399606260054",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                },
+                {
+                    "context": "准备景物信息需要判断是否准备景物的详细信息或者准备景物的简短信息。",
+                    "qas": [
+                        {
+                            "question": "准备景物的简短信息的下一个子功能或任务是什么",
+                            "type": "vocab_noun",
+                            "id": "34362472326565",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": "-1"
+                                }
+                            ],
+                            "is_impossible": true
+                        }
+                    ],
+                    "title": "title"
+                }
+            ]
+        }
+    ]
+}
